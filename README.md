@@ -29,7 +29,8 @@ structure-preserving legalization have a significant effect on final post-layout
 quality.
 
 > **Paper:** *APPlace: Co-Optimizing Device Locations and Access Points for
-> Routing-Aware Analog Placement*, accepted to ASP-DAC 2027.
+> Routing-Aware Analog Placement*, accepted to ASP-DAC 2027,
+> [doi:10.1145/3840404.3848293](https://doi.org/10.1145/3840404.3848293).
 
 This repository provides the Rust implementation of APPlace, abstract benchmarks
 that run without any PDK, and the input interfaces for connecting real PCell /
@@ -229,6 +230,7 @@ If APPlace is useful in your research, please cite:
   title     = {{APPlace}: Co-Optimizing Device Locations and Access Points for Routing-Aware Analog Placement},
   booktitle = {Proceedings of the Asia and South Pacific Design Automation Conference (ASP-DAC)},
   year      = {2027},
+  doi       = {10.1145/3840404.3848293},
   note      = {To appear},
 }
 ```

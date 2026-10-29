@@ -25,7 +25,8 @@ ablation 表明，AP co-optimization 与 structure-preserving legalization
 都会显著影响最终 post-layout quality。
 
 > **Paper:** *APPlace: Co-Optimizing Device Locations and Access Points
-> for Routing-Aware Analog Placement*, accepted to ASP-DAC 2027.
+> for Routing-Aware Analog Placement*, accepted to ASP-DAC 2027,
+> [doi:10.1145/3840404.3848293](https://doi.org/10.1145/3840404.3848293).
 
 本仓库提供 APPlace 的 Rust 实现、无需 PDK 即可运行的 abstract benchmarks，
 以及用于接入实际 PCell / PDK 数据的输入接口。本仓库只负责 placement；
@@ -204,6 +205,7 @@ bash run/10-abstract-placement.sh ota2 /tmp/out --set symWeight=2.0
   title     = {{APPlace}: Co-Optimizing Device Locations and Access Points for Routing-Aware Analog Placement},
   booktitle = {Proceedings of the Asia and South Pacific Design Automation Conference (ASP-DAC)},
   year      = {2027},
+  doi       = {10.1145/3840404.3848293},
   note      = {To appear},
 }
 ```
