@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
-# Check the four example placements against what this repository says they should be.
+# Check the example placements and the regression cases against their references.
 #
 #   bash scripts/check_reference.sh              # invariants, on any machine
-#   bash scripts/check_reference.sh ota2 comp    # just these cases
+#   bash scripts/check_reference.sh ota2 path/to/case   # just these cases
 #   bash scripts/check_reference.sh --strict     # byte-for-byte, same machine only
 #
 # DEFAULT MODE checks the properties a placement either has or does not have, against
-# `benchmark/abstract/<case>/reference/placement_summary.json`:
+# `<case dir>/reference/placement_summary.json`:
 #
 #   * the run completes and writes a placement;
 #   * device_count, pmos_count and sym_pairs match the reference exactly -- the problem
@@ -45,7 +45,20 @@ for arg in "$@"; do
 done
 if [[ ${#CASES[@]} -eq 0 ]]; then
   CASES=(ota1 ota2 ota3 comp)
+  # Every regression case, too: an input that once showed a bug, kept so that the
+  # bug stays fixed (benchmark/regression/README.md).
+  for d in "$ROOT_DIR"/benchmark/regression/*/; do
+    [[ -f "$d/bbox.json" ]] && CASES+=("${d%/}")
+  done
 fi
+
+# A case is a name under benchmark/abstract/ or benchmark/regression/, or a path.
+case_dir() {
+  if [[ -d "$1" ]]; then (cd "$1" && pwd)
+  elif [[ -d "$ROOT_DIR/benchmark/abstract/$1" ]]; then echo "$ROOT_DIR/benchmark/abstract/$1"
+  elif [[ -d "$ROOT_DIR/benchmark/regression/$1" ]]; then echo "$ROOT_DIR/benchmark/regression/$1"
+  else echo "$1"; fi
+}
 
 if ! command -v python3 >/dev/null 2>&1; then
   echo "[error] python3 is required to read the placement summaries" >&2
@@ -56,10 +69,12 @@ OUT_ROOT="$(mktemp -d)"
 trap 'rm -rf "$OUT_ROOT"' EXIT
 
 failed=0
-for case in "${CASES[@]}"; do
-  ref_dir="$ROOT_DIR/benchmark/abstract/$case/reference"
+for arg in "${CASES[@]}"; do
+  dir="$(case_dir "$arg")"
+  case="$(basename "$dir")"
+  ref_dir="$dir/reference"
   out="$OUT_ROOT/$case"
-  if ! bash "$ROOT_DIR/run/10-abstract-placement.sh" "$case" "$out" >"$out.log" 2>&1; then
+  if ! bash "$ROOT_DIR/run/10-abstract-placement.sh" "$dir" "$out" >"$out.log" 2>&1; then
     echo "  [FAIL] $case: the run itself failed; see $out.log" >&2
     tail -20 "$out.log" >&2
     failed=1
@@ -163,5 +178,5 @@ fi
 if (( STRICT )); then
   echo "[ok] every reference placement reproduced byte for byte"
 else
-  echo "[ok] every example case placed, with every invariant met"
+  echo "[ok] every example and regression case placed, with every invariant met"
 fi

@@ -7,10 +7,13 @@
 # `benchmark/<case>/` carries a SPICE netlist with device sizing and one vendor
 # PCell layout file per device. Both stay on disk so the device flow can be run
 # locally; neither is committed. The abstract cases under benchmark/abstract/ are
-# the published example data -- they are pure geometry and are tracked.
+# the published example data -- they are pure geometry and are tracked, and so are
+# the regression cases under benchmark/regression/.
 /benchmark/*
 !/benchmark/abstract/
 !/benchmark/abstract/**
+!/benchmark/regression/
+!/benchmark/regression/**
 
 # A rule deck sitting next to a design names that process's device models, so it is the
 # same kind of material as the netlist. The device flow picks it up automatically

@@ -79,6 +79,17 @@ cargo test --manifest-path src/Cargo.toml --workspace -- --ignored
    floating-point sums in a different order, so their placements differ in the
    last bits. `run/10-abstract-placement.sh` builds release by default.
 
+## Bugs and the regression set
+
+A bug fix comes with the input that showed the bug, added as a case under
+`benchmark/regression/`. `scripts/check_reference.sh` runs every case there along
+with the examples, and CI runs that script, so a fixed bug stays fixed.
+`benchmark/regression/README.md` says what a case is and how to record its
+reference. A design you cannot share can almost always be reduced to a case in the
+geometric form, which carries no process data.
+
+When you report a bug, attach that input too; the issue template asks for it.
+
 ## Style
 
 - Comments say *why*, not *what*. The code already says what.
