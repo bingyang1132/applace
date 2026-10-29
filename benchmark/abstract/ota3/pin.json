@@ -1,0 +1,1584 @@
+{
+  "pins": [
+    {
+      "cell_name": "Telescopic_Three_stage_flow_C1",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_C1_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_VOM2"
+      ],
+      "offset_x": 6855.0,
+      "offset_y": 5390.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_C1",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_C1_1",
+      "nets": [
+        "OUTP"
+      ],
+      "offset_x": 6855.0,
+      "offset_y": 5390.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_C1",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_C1_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 6855.0,
+      "offset_y": 5390.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_C5",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_C5_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_VOP2"
+      ],
+      "offset_x": 6855.0,
+      "offset_y": 5390.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_C5",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_C5_1",
+      "nets": [
+        "OUTM"
+      ],
+      "offset_x": 6855.0,
+      "offset_y": 5390.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_C5",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_C5_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 6855.0,
+      "offset_y": 5390.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_C6",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_C6_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_VOM1"
+      ],
+      "offset_x": 4195.0,
+      "offset_y": 3390.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_C6",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_C6_1",
+      "nets": [
+        "OUTP"
+      ],
+      "offset_x": 4195.0,
+      "offset_y": 3390.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_C6",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_C6_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 4195.0,
+      "offset_y": 3390.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_C7",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_C7_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_VOP1"
+      ],
+      "offset_x": 4195.0,
+      "offset_y": 3390.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_C7",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_C7_1",
+      "nets": [
+        "OUTM"
+      ],
+      "offset_x": 4195.0,
+      "offset_y": 3390.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_C7",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_C7_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 4195.0,
+      "offset_y": 3390.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M102",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M102_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_VOM2"
+      ],
+      "offset_x": 1310.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M102",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M102_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VBN"
+      ],
+      "offset_x": 1310.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M102",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M102_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 1310.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M102",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M102_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 1310.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M105",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M105_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_net058"
+      ],
+      "offset_x": 2430.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M105",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M105_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VBN"
+      ],
+      "offset_x": 2430.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M105",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M105_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 2430.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M105",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M105_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 2430.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M106",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M106_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_VOP1"
+      ],
+      "offset_x": 1990.0,
+      "offset_y": 3315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M106",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M106_1",
+      "nets": [
+        "VBN1"
+      ],
+      "offset_x": 1990.0,
+      "offset_y": 3315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M106",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M106_2",
+      "nets": [
+        "Telescopic_Three_stage_flow_net2"
+      ],
+      "offset_x": 1990.0,
+      "offset_y": 3315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M106",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M106_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 1990.0,
+      "offset_y": 3315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M107",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M107_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_VOP1"
+      ],
+      "offset_x": 1990.0,
+      "offset_y": 2815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M107",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M107_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VBP1"
+      ],
+      "offset_x": 1990.0,
+      "offset_y": 2815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M107",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M107_2",
+      "nets": [
+        "Telescopic_Three_stage_flow_net08"
+      ],
+      "offset_x": 1990.0,
+      "offset_y": 2815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M107",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M107_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 1990.0,
+      "offset_y": 2815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M108",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M108_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_net08"
+      ],
+      "offset_x": 2110.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M108",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M108_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VCMFB1"
+      ],
+      "offset_x": 2110.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M108",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M108_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 2110.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M108",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M108_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 2110.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M109",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M109_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_VOM2"
+      ],
+      "offset_x": 22590.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M109",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M109_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VOP1"
+      ],
+      "offset_x": 22590.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M109",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M109_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 22590.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M109",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M109_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 22590.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M110",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M110_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_VOM2"
+      ],
+      "offset_x": 2430.0,
+      "offset_y": 1565.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M110",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M110_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VCMFB2"
+      ],
+      "offset_x": 2430.0,
+      "offset_y": 1565.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M110",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M110_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 2430.0,
+      "offset_y": 1565.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M110",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M110_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 2430.0,
+      "offset_y": 1565.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M111",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M111_0",
+      "nets": [
+        "OUTP"
+      ],
+      "offset_x": 19390.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M111",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M111_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VBP"
+      ],
+      "offset_x": 19390.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M111",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M111_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 19390.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M111",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M111_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 19390.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M112",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M112_0",
+      "nets": [
+        "OUTP"
+      ],
+      "offset_x": 19390.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M112",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M112_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VCMFB3"
+      ],
+      "offset_x": 19390.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M112",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M112_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 19390.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M112",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M112_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 19390.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M113",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M113_0",
+      "nets": [
+        "OUTP"
+      ],
+      "offset_x": 4670.0,
+      "offset_y": 1565.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M113",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M113_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VOM2"
+      ],
+      "offset_x": 4670.0,
+      "offset_y": 1565.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M113",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M113_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 4670.0,
+      "offset_y": 1565.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M113",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M113_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 4670.0,
+      "offset_y": 1565.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M114",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M114_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_VCMFB3"
+      ],
+      "offset_x": 910.0,
+      "offset_y": 1565.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M114",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M114_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_net057"
+      ],
+      "offset_x": 910.0,
+      "offset_y": 1565.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M114",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M114_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 910.0,
+      "offset_y": 1565.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M114",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M114_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 910.0,
+      "offset_y": 1565.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M12",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M12_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_net4"
+      ],
+      "offset_x": 5340.0,
+      "offset_y": 4815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M12",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M12_1",
+      "nets": [
+        "INP"
+      ],
+      "offset_x": 5340.0,
+      "offset_y": 4815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M12",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M12_2",
+      "nets": [
+        "Telescopic_Three_stage_flow_net1"
+      ],
+      "offset_x": 5340.0,
+      "offset_y": 4815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M12",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M12_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 5340.0,
+      "offset_y": 4815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M13",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M13_0",
+      "nets": [
+        "OUTM"
+      ],
+      "offset_x": 4670.0,
+      "offset_y": 1565.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M13",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M13_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VOP2"
+      ],
+      "offset_x": 4670.0,
+      "offset_y": 1565.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M13",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M13_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 4670.0,
+      "offset_y": 1565.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M13",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M13_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 4670.0,
+      "offset_y": 1565.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M14",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M14_0",
+      "nets": [
+        "OUTM"
+      ],
+      "offset_x": 19390.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M14",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M14_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VBP"
+      ],
+      "offset_x": 19390.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M14",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M14_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 19390.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M14",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M14_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 19390.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M18",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M18_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_VOP2"
+      ],
+      "offset_x": 1310.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M18",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M18_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VBN"
+      ],
+      "offset_x": 1310.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M18",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M18_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 1310.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M18",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M18_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 1310.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M2",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M2_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_net2"
+      ],
+      "offset_x": 5340.0,
+      "offset_y": 4815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M2",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M2_1",
+      "nets": [
+        "INM"
+      ],
+      "offset_x": 5340.0,
+      "offset_y": 4815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M2",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M2_2",
+      "nets": [
+        "Telescopic_Three_stage_flow_net1"
+      ],
+      "offset_x": 5340.0,
+      "offset_y": 4815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M2",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M2_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 5340.0,
+      "offset_y": 4815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M21",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M21_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_VBN"
+      ],
+      "offset_x": 1310.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M21",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M21_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VBN"
+      ],
+      "offset_x": 1310.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M21",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M21_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 1310.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M21",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M21_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 1310.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M24",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M24_0",
+      "nets": [
+        "VBN1"
+      ],
+      "offset_x": 5990.0,
+      "offset_y": 3315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M24",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M24_1",
+      "nets": [
+        "VBN1"
+      ],
+      "offset_x": 5990.0,
+      "offset_y": 3315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M24",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M24_2",
+      "nets": [
+        "Telescopic_Three_stage_flow_VBN"
+      ],
+      "offset_x": 5990.0,
+      "offset_y": 3315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M24",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M24_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 5990.0,
+      "offset_y": 3315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M26",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M26_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_VBP1"
+      ],
+      "offset_x": 8990.0,
+      "offset_y": 2815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M26",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M26_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VBP1"
+      ],
+      "offset_x": 8990.0,
+      "offset_y": 2815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M26",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M26_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 8990.0,
+      "offset_y": 2815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M26",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M26_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 8990.0,
+      "offset_y": 2815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M3",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M3_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_VOM1"
+      ],
+      "offset_x": 1990.0,
+      "offset_y": 3315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M3",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M3_1",
+      "nets": [
+        "VBN1"
+      ],
+      "offset_x": 1990.0,
+      "offset_y": 3315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M3",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M3_2",
+      "nets": [
+        "Telescopic_Three_stage_flow_net4"
+      ],
+      "offset_x": 1990.0,
+      "offset_y": 3315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M3",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M3_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 1990.0,
+      "offset_y": 3315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M4",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M4_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_net1"
+      ],
+      "offset_x": 8030.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M4",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M4_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VBN"
+      ],
+      "offset_x": 8030.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M4",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M4_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 8030.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M4",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M4_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 8030.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M6",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M6_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_VOM1"
+      ],
+      "offset_x": 1990.0,
+      "offset_y": 2815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M6",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M6_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VBP1"
+      ],
+      "offset_x": 1990.0,
+      "offset_y": 2815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M6",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M6_2",
+      "nets": [
+        "Telescopic_Three_stage_flow_net07"
+      ],
+      "offset_x": 1990.0,
+      "offset_y": 2815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M6",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M6_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 1990.0,
+      "offset_y": 2815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M60",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M60_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_net057"
+      ],
+      "offset_x": 910.0,
+      "offset_y": 1415.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M60",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M60_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_net056"
+      ],
+      "offset_x": 910.0,
+      "offset_y": 1415.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M60",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M60_2",
+      "nets": [
+        "Telescopic_Three_stage_flow_net058"
+      ],
+      "offset_x": 910.0,
+      "offset_y": 1415.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M60",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M60_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 910.0,
+      "offset_y": 1415.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M63",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M63_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_net057"
+      ],
+      "offset_x": 910.0,
+      "offset_y": 1565.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M63",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M63_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_net057"
+      ],
+      "offset_x": 910.0,
+      "offset_y": 1565.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M63",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M63_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 910.0,
+      "offset_y": 1565.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M63",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M63_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 910.0,
+      "offset_y": 1565.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M7",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M7_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_net07"
+      ],
+      "offset_x": 2110.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M7",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M7_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VCMFB1"
+      ],
+      "offset_x": 2110.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M7",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M7_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 2110.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M7",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M7_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 2110.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M73",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M73_0",
+      "nets": [
+        "OUTM"
+      ],
+      "offset_x": 19390.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M73",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M73_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VCMFB3"
+      ],
+      "offset_x": 19390.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M73",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M73_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 19390.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M73",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M73_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 19390.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M75",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M75_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_VOP2"
+      ],
+      "offset_x": 2430.0,
+      "offset_y": 1565.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M75",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M75_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VCMFB2"
+      ],
+      "offset_x": 2430.0,
+      "offset_y": 1565.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M75",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M75_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 2430.0,
+      "offset_y": 1565.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M75",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M75_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 2430.0,
+      "offset_y": 1565.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M9",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M9_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_VOP2"
+      ],
+      "offset_x": 22590.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M9",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M9_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VOM1"
+      ],
+      "offset_x": 22590.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M9",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M9_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 22590.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M9",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M9_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 22590.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M90",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M90_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_VBP"
+      ],
+      "offset_x": 2110.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M90",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M90_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VBP"
+      ],
+      "offset_x": 2110.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M90",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M90_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 2110.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M90",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M90_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 2110.0,
+      "offset_y": 5315.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M93",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M93_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_VCMFB3"
+      ],
+      "offset_x": 910.0,
+      "offset_y": 1415.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M93",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M93_1",
+      "nets": [
+        "VREF"
+      ],
+      "offset_x": 910.0,
+      "offset_y": 1415.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M93",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M93_2",
+      "nets": [
+        "Telescopic_Three_stage_flow_net058"
+      ],
+      "offset_x": 910.0,
+      "offset_y": 1415.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M93",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M93_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 910.0,
+      "offset_y": 1415.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M96",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M96_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_VBP1"
+      ],
+      "offset_x": 1310.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M96",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M96_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VBN"
+      ],
+      "offset_x": 1310.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M96",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M96_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 1310.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M96",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M96_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 1310.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M97",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M97_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_VBP"
+      ],
+      "offset_x": 1310.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M97",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M97_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VBN"
+      ],
+      "offset_x": 1310.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M97",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M97_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 1310.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_M97",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_M97_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 1310.0,
+      "offset_y": 5815.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_R10",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_R10_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_net056"
+      ],
+      "offset_x": 4510.0,
+      "offset_y": 420.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_R10",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_R10_1",
+      "nets": [
+        "OUTM"
+      ],
+      "offset_x": 4510.0,
+      "offset_y": 420.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_R10",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_R10_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 4510.0,
+      "offset_y": 420.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_R4",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_R4_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_VOP1"
+      ],
+      "offset_x": 5510.0,
+      "offset_y": 3345.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_R4",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_R4_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VCMFB1"
+      ],
+      "offset_x": 5510.0,
+      "offset_y": 3345.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_R4",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_R4_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 5510.0,
+      "offset_y": 3345.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_R6q",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_R6q_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_VCMFB1"
+      ],
+      "offset_x": 5510.0,
+      "offset_y": 3345.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_R6q",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_R6q_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VOM1"
+      ],
+      "offset_x": 5510.0,
+      "offset_y": 3345.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_R6q",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_R6q_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 5510.0,
+      "offset_y": 3345.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_R7",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_R7_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_VOP2"
+      ],
+      "offset_x": 5510.0,
+      "offset_y": 420.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_R7",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_R7_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VCMFB2"
+      ],
+      "offset_x": 5510.0,
+      "offset_y": 420.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_R7",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_R7_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 5510.0,
+      "offset_y": 420.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_R8",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_R8_0",
+      "nets": [
+        "Telescopic_Three_stage_flow_VCMFB2"
+      ],
+      "offset_x": 5510.0,
+      "offset_y": 420.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_R8",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_R8_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_VOM2"
+      ],
+      "offset_x": 5510.0,
+      "offset_y": 420.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_R8",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_R8_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 5510.0,
+      "offset_y": 420.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_R9",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_R9_0",
+      "nets": [
+        "OUTP"
+      ],
+      "offset_x": 4510.0,
+      "offset_y": 420.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_R9",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_R9_1",
+      "nets": [
+        "Telescopic_Three_stage_flow_net056"
+      ],
+      "offset_x": 4510.0,
+      "offset_y": 420.0
+    },
+    {
+      "cell_name": "Telescopic_Three_stage_flow_R9",
+      "isIO": false,
+      "name": "Telescopic_Three_stage_flow_R9_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 4510.0,
+      "offset_y": 420.0
+    }
+  ]
+}

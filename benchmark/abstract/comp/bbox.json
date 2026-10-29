@@ -1,0 +1,180 @@
+{
+  "boundary": {
+    "xh": 17290,
+    "xl": 0,
+    "yh": 17290,
+    "yl": 0
+  },
+  "cells": [
+    {
+      "bbox": {
+        "xh": 1550,
+        "xl": 0,
+        "yh": 1575,
+        "yl": 0
+      },
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M0",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 880,
+        "xl": 0,
+        "yh": 1610,
+        "yl": 0
+      },
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M10",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 880,
+        "xl": 0,
+        "yh": 1610,
+        "yl": 0
+      },
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M12",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 1240,
+        "xl": 0,
+        "yh": 1610,
+        "yl": 0
+      },
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M13",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 1240,
+        "xl": 0,
+        "yh": 1610,
+        "yl": 0
+      },
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M14",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 1060,
+        "xl": 0,
+        "yh": 1610,
+        "yl": 0
+      },
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M15",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 980,
+        "xl": 0,
+        "yh": 1110,
+        "yl": 0
+      },
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M16",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 980,
+        "xl": 0,
+        "yh": 1110,
+        "yl": 0
+      },
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M17",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 880,
+        "xl": 0,
+        "yh": 1610,
+        "yl": 0
+      },
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M18",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 880,
+        "xl": 0,
+        "yh": 1610,
+        "yl": 0
+      },
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M19",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 1550,
+        "xl": 0,
+        "yh": 1575,
+        "yl": 0
+      },
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M22",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 1160,
+        "xl": 0,
+        "yh": 1110,
+        "yl": 0
+      },
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M3",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 1160,
+        "xl": 0,
+        "yh": 1110,
+        "yl": 0
+      },
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M4",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 2240,
+        "xl": 0,
+        "yh": 1590,
+        "yl": 0
+      },
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M5",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 2240,
+        "xl": 0,
+        "yh": 1590,
+        "yl": 0
+      },
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M6",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 3680,
+        "xl": 0,
+        "yh": 1110,
+        "yl": 0
+      },
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M7",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 1060,
+        "xl": 0,
+        "yh": 1610,
+        "yl": 0
+      },
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M8",
+      "isPmos": true
+    }
+  ]
+}

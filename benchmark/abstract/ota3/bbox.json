@@ -1,0 +1,430 @@
+{
+  "boundary": {
+    "xh": 139669,
+    "xl": 0,
+    "yh": 139669,
+    "yl": 0
+  },
+  "cells": [
+    {
+      "bbox": {
+        "xh": 13710,
+        "xl": 0,
+        "yh": 10780,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_C1",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 13710,
+        "xl": 0,
+        "yh": 10780,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_C5",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 8390,
+        "xl": 0,
+        "yh": 6780,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_C6",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 8390,
+        "xl": 0,
+        "yh": 6780,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_C7",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 2620,
+        "xl": 0,
+        "yh": 11630,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M102",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 4860,
+        "xl": 0,
+        "yh": 11630,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M105",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 3980,
+        "xl": 0,
+        "yh": 6630,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M106",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 3980,
+        "xl": 0,
+        "yh": 5630,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M107",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 4220,
+        "xl": 0,
+        "yh": 10630,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M108",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 45180,
+        "xl": 0,
+        "yh": 10630,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M109",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 4860,
+        "xl": 0,
+        "yh": 3130,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M110",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 38780,
+        "xl": 0,
+        "yh": 10630,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M111",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 38780,
+        "xl": 0,
+        "yh": 10630,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M112",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 9340,
+        "xl": 0,
+        "yh": 3130,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M113",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 1820,
+        "xl": 0,
+        "yh": 3130,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M114",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 10680,
+        "xl": 0,
+        "yh": 9630,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M12",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 9340,
+        "xl": 0,
+        "yh": 3130,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M13",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 38780,
+        "xl": 0,
+        "yh": 10630,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M14",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 2620,
+        "xl": 0,
+        "yh": 11630,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M18",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 10680,
+        "xl": 0,
+        "yh": 9630,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M2",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 2620,
+        "xl": 0,
+        "yh": 11630,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M21",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 11980,
+        "xl": 0,
+        "yh": 6630,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M24",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 17980,
+        "xl": 0,
+        "yh": 5630,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M26",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 3980,
+        "xl": 0,
+        "yh": 6630,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M3",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 16060,
+        "xl": 0,
+        "yh": 11630,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M4",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 3980,
+        "xl": 0,
+        "yh": 5630,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M6",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 1820,
+        "xl": 0,
+        "yh": 2830,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M60",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 1820,
+        "xl": 0,
+        "yh": 3130,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M63",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 4220,
+        "xl": 0,
+        "yh": 10630,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M7",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 38780,
+        "xl": 0,
+        "yh": 10630,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M73",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 4860,
+        "xl": 0,
+        "yh": 3130,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M75",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 45180,
+        "xl": 0,
+        "yh": 10630,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M9",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 4220,
+        "xl": 0,
+        "yh": 10630,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M90",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 1820,
+        "xl": 0,
+        "yh": 2830,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M93",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 2620,
+        "xl": 0,
+        "yh": 11630,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M96",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 2620,
+        "xl": 0,
+        "yh": 11630,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_M97",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 9020,
+        "xl": 0,
+        "yh": 840,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_R10",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 11020,
+        "xl": 0,
+        "yh": 6690,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_R4",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 11020,
+        "xl": 0,
+        "yh": 6690,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_R6q",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 11020,
+        "xl": 0,
+        "yh": 840,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_R7",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 11020,
+        "xl": 0,
+        "yh": 840,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_R8",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 9020,
+        "xl": 0,
+        "yh": 840,
+        "yl": 0
+      },
+      "cell_name": "Telescopic_Three_stage_flow_R9",
+      "isPmos": false
+    }
+  ]
+}

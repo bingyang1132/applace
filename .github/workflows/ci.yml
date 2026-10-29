@@ -1,0 +1,104 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+env:
+  CARGO_TERM_COLOR: always
+  RUSTFLAGS: -D warnings
+
+jobs:
+  build-and-test:
+    name: ${{ matrix.os }} / stock Rust
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest]
+    steps:
+      - uses: actions/checkout@v4
+
+      # A stock toolchain, on purpose: APPlace has no C or C++ dependency, no
+      # solver to link against and no feature flags. If this job needs anything
+      # beyond `rustup`, that is a bug in the repository, not in the workflow.
+      - name: Install Rust
+        run: rustup toolchain install stable --profile minimal --component rustfmt,clippy
+
+      - uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: src
+
+      - name: Format
+        run: cargo fmt --manifest-path src/Cargo.toml --all --check
+
+      # Lints run on a pinned toolchain so that a new clippy release cannot turn the
+      # build red on its own; build and tests still run on current stable above.
+      - name: Install pinned clippy toolchain
+        run: rustup toolchain install 1.98.1 --profile minimal --component clippy
+
+      - name: Clippy
+        run: cargo +1.98.1 clippy --manifest-path src/Cargo.toml --workspace --all-targets -- -D warnings
+
+      - name: Build
+        run: cargo build --release --manifest-path src/Cargo.toml --workspace
+
+      # Some tests are #[ignore]d because they need the device-flow example
+      # design, which is not distributed. The count in the summary line says how
+      # many; nothing here pretends they ran.
+      - name: Test
+        run: cargo test --release --manifest-path src/Cargo.toml --workspace
+
+      # The quickstart on the front page has to be true with nothing but a clone.
+      - name: Quickstart
+        run: bash run/10-abstract-placement.sh ota2 "$RUNNER_TEMP/ota2"
+
+      # What the example cases must satisfy on any machine: the problem solved is the
+      # problem posed (device, PMOS and symmetry-pair counts), every declared symmetry
+      # is exact, no two devices overlap, nothing leaves its region, and the wirelength
+      # is in the same league as the committed reference.
+      #
+      # Not byte-for-byte, and deliberately so. A gradient method is sensitive to the
+      # last bit of a floating-point result; a different libm or a different code
+      # generator sends the run to a different, equally good local optimum. Bytes are
+      # checked by `--strict`, which holds only on one machine with one toolchain.
+      # What the check below actually runs with: toolchain, profile-related
+      # environment, and whatever binaries already exist. Printed before the check so
+      # a failure can be read against it. (The run scripts rebuild unconditionally and
+      # let cargo decide whether that is a no-op, so an existing binary here is never
+      # the thing that ran unless cargo agreed it was current.)
+      - name: Show the environment the check runs in
+        run: |
+          rustc -vV
+          echo "PROFILE=${PROFILE-<unset>} TARGET_DIR=${TARGET_DIR-<unset>}"
+          ls -la target/release/run_abstract_placement target/debug/run_abstract_placement src/target/release/run_abstract_placement 2>/dev/null || true
+
+      - name: Check the example placements against the reference invariants
+        run: bash scripts/check_reference.sh
+
+      # Determinism as this project actually claims it: one binary, one machine, same
+      # input, same bytes.
+      - name: Determinism (same binary, same machine)
+        run: |
+          bash run/10-abstract-placement.sh comp "$RUNNER_TEMP/comp-a"
+          bash run/10-abstract-placement.sh comp "$RUNNER_TEMP/comp-b"
+          cmp "$RUNNER_TEMP/comp-a/placement.json" "$RUNNER_TEMP/comp-b/placement.json"
+
+  msrv:
+    name: Minimum supported Rust version
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Rust (the version src/Cargo.toml declares)
+        run: |
+          msrv="$(grep -m1 '^rust-version' src/Cargo.toml | cut -d'"' -f2)"
+          echo "MSRV is $msrv"
+          rustup toolchain install "$msrv" --profile minimal
+          rustup default "$msrv"
+      - uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: src
+      - run: cargo build --release --manifest-path src/Cargo.toml --workspace
+      - run: cargo test --release --manifest-path src/Cargo.toml --workspace

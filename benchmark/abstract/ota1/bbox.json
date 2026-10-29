@@ -1,0 +1,260 @@
+{
+  "boundary": {
+    "xh": 68889,
+    "xl": 0,
+    "yh": 68889,
+    "yl": 0
+  },
+  "cells": [
+    {
+      "bbox": {
+        "xh": 29340,
+        "xl": 0,
+        "yh": 13560,
+        "yl": 0
+      },
+      "cell_name": "Core_test_flow_C0",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 29340,
+        "xl": 0,
+        "yh": 13560,
+        "yl": 0
+      },
+      "cell_name": "Core_test_flow_C1",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 9120,
+        "xl": 0,
+        "yh": 5630,
+        "yl": 0
+      },
+      "cell_name": "Core_test_flow_M0",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 3640,
+        "xl": 0,
+        "yh": 2650,
+        "yl": 0
+      },
+      "cell_name": "Core_test_flow_M1",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 4560,
+        "xl": 0,
+        "yh": 2630,
+        "yl": 0
+      },
+      "cell_name": "Core_test_flow_M10",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 1440,
+        "xl": 0,
+        "yh": 2630,
+        "yl": 0
+      },
+      "cell_name": "Core_test_flow_M11",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 920,
+        "xl": 0,
+        "yh": 2630,
+        "yl": 0
+      },
+      "cell_name": "Core_test_flow_M12",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 920,
+        "xl": 0,
+        "yh": 2630,
+        "yl": 0
+      },
+      "cell_name": "Core_test_flow_M13",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 2600,
+        "xl": 0,
+        "yh": 2650,
+        "yl": 0
+      },
+      "cell_name": "Core_test_flow_M15",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 2600,
+        "xl": 0,
+        "yh": 2650,
+        "yl": 0
+      },
+      "cell_name": "Core_test_flow_M17",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 2600,
+        "xl": 0,
+        "yh": 2650,
+        "yl": 0
+      },
+      "cell_name": "Core_test_flow_M18",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 2600,
+        "xl": 0,
+        "yh": 2650,
+        "yl": 0
+      },
+      "cell_name": "Core_test_flow_M19",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 9120,
+        "xl": 0,
+        "yh": 5630,
+        "yl": 0
+      },
+      "cell_name": "Core_test_flow_M2",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 2480,
+        "xl": 0,
+        "yh": 2630,
+        "yl": 0
+      },
+      "cell_name": "Core_test_flow_M20",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 3640,
+        "xl": 0,
+        "yh": 2650,
+        "yl": 0
+      },
+      "cell_name": "Core_test_flow_M23",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 3640,
+        "xl": 0,
+        "yh": 2650,
+        "yl": 0
+      },
+      "cell_name": "Core_test_flow_M25",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 3640,
+        "xl": 0,
+        "yh": 2650,
+        "yl": 0
+      },
+      "cell_name": "Core_test_flow_M3",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 1440,
+        "xl": 0,
+        "yh": 2630,
+        "yl": 0
+      },
+      "cell_name": "Core_test_flow_M4",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 2480,
+        "xl": 0,
+        "yh": 2630,
+        "yl": 0
+      },
+      "cell_name": "Core_test_flow_M5",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 1960,
+        "xl": 0,
+        "yh": 2630,
+        "yl": 0
+      },
+      "cell_name": "Core_test_flow_M6",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 2480,
+        "xl": 0,
+        "yh": 2630,
+        "yl": 0
+      },
+      "cell_name": "Core_test_flow_M7",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 1960,
+        "xl": 0,
+        "yh": 2630,
+        "yl": 0
+      },
+      "cell_name": "Core_test_flow_M9",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 5600,
+        "xl": 0,
+        "yh": 2630,
+        "yl": 0
+      },
+      "cell_name": "Core_test_flow_MP1a",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 5600,
+        "xl": 0,
+        "yh": 2630,
+        "yl": 0
+      },
+      "cell_name": "Core_test_flow_MP1b",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 2480,
+        "xl": 0,
+        "yh": 2630,
+        "yl": 0
+      },
+      "cell_name": "Core_test_flow_MP1c",
+      "isPmos": true
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "common": {
+    "adamBeta1": 0.9,
+    "adamBeta2": 0.999,
+    "learningRate": 200.0,
+    "apEps": 1e-06,
+    "apExponentM": 6.0,
+    "apStableWeight": 0.0,
+    "compactionWeight": 0.0002,
+    "lsStepInit": 1.0,
+    "initJitterRatio": 0.02,
+    "wlSmoothingInit": 1.0,
+    "armijoC1": 0.0001,
+    "massDampingExp": 0.7,
+    "maxIterations": 3000,
+    "lsStepMin": 0.0001,
+    "lsStepShrink": 0.5,
+    "optimizer": "Adam",
+    "randomSeed": 2026,
+    "stepStrategy": "none",
+    "symSelfWeight": 1.2,
+    "boundaryTarget": 0.0,
+    "overlapTarget": 0.0005,
+    "symmetryTarget": 0.01,
+    "useApWl": true,
+    "enableArray": false,
+    "enableBoundary": false,
+    "useCompaction": false,
+    "enableWirelength": true,
+    "useMassDamping": false,
+    "enableOverlap": true,
+    "enableSymmetry": true,
+    "useWellCluster": false,
+    "wlGammaDecay": 0.95
+  },
+  "mode": "multiphase",
+  "schemaVersion": 2,
+  "multiphase": {
+    "lambdaApMax": 0.8
+  }
+}

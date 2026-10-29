@@ -1,0 +1,46 @@
+# Build output
+/target/
+**/target/
+
+# Example design inputs are NOT published.
+#
+# `benchmark/<case>/` carries a SPICE netlist with device sizing and one vendor
+# PCell layout file per device. Both stay on disk so the device flow can be run
+# locally; neither is committed. The abstract cases under benchmark/abstract/ are
+# the published example data -- they are pure geometry and are tracked.
+/benchmark/*
+!/benchmark/abstract/
+!/benchmark/abstract/**
+
+# A rule deck sitting next to a design names that process's device models, so it is the
+# same kind of material as the netlist. The device flow picks it up automatically
+# (run/_common.sh); it is never published.
+/benchmark/*/lef.json
+
+# The parser test fixture is the same kind of material, so it gets the same rule.
+/src/io/golden/example/
+
+# No layout database and no netlist, anywhere.
+*.gds
+*.gds.gz
+*.oas
+*.sp
+*.cdl
+
+# Run artifacts
+/out/
+out/
+parser_out/
+custom_normalized/
+*.log
+
+# Rule decks other than the shipped placeholder. Bring your own; keep it out.
+/pdk/*
+!/pdk/example_lef.json
+
+# Editors and operating systems
+*.swp
+*~
+.DS_Store
+.vscode/
+.idea/

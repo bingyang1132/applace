@@ -1,0 +1,16 @@
+{
+  "COMPARATOR_PRE_AMP_2018_Modify_test_flow": {
+    "axis": "vertical",
+    "pairs": {
+      "M12": "M10",
+      "M13": "M14",
+      "M16": "M17",
+      "M19": "M18",
+      "M22": "M0",
+      "M3": "M4",
+      "M6": "M5",
+      "M7": "M7",
+      "M8": "M15"
+    }
+  }
+}

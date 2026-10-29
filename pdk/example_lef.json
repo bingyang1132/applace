@@ -1,0 +1,200 @@
+{
+ "_meta": {
+  "physical_grid": false,
+  "note": "Placeholder deck. Every rule value in this file is an invented stand-in -- no number here describes a real process -- and every device model name is a generic placeholder you are meant to replace. \"grid\" is not a real manufacturing grid, which is why \"physical_grid\" is false and grid snapping is off. The key names (layer names, rule names) are not stand-ins: they are the input schema this tool reads. See docs/INPUT_FORMAT.md for every field that is read."
+ },
+ "unit_r": 1e-06,
+ "unit_n": 1e-09,
+ "layer_map": {
+  "LVSDMY": 208,
+  "MOMDMY": 155,
+  "DMEXCL": 150,
+  "RH": 117,
+  "RPDMY": 115,
+  "VTH_P": 68,
+  "VTH_N": 67,
+  "VIA8": 58,
+  "VIA7": 57,
+  "VIA6": 56,
+  "VIA5": 55,
+  "VIA4": 54,
+  "VIA3": 53,
+  "VIA2": 52,
+  "VIA1": 51,
+  "M8": 38,
+  "M7": 37,
+  "M6": 36,
+  "M5": 35,
+  "M4": 34,
+  "M3": 33,
+  "M2": 32,
+  "M1": 31,
+  "CO": 30,
+  "RPO": 29,
+  "NP": 26,
+  "PP": 25,
+  "OD_25": 18,
+  "PO": 17,
+  "VTL_P": 13,
+  "VTL_N": 12,
+  "NT_N": 11,
+  "OD": 6,
+  "NW": 3
+ },
+ "grid": 0.01,
+ "layer_datatype": {
+  "M1": 0,
+  "M2": 0,
+  "M3": 0,
+  "M4": 0,
+  "M5": 0,
+  "M6": 0,
+  "M7": 40,
+  "M8": 40,
+  "VIA1": 0,
+  "VIA2": 0,
+  "VIA3": 0,
+  "VIA4": 0,
+  "VIA5": 0,
+  "VIA6": 40,
+  "VIA7": 40
+ },
+ "min_w_rules": {
+  "CO": 0.05,
+  "M1": 0.1,
+  "SP": 0.15,
+  "M2": 0.1,
+  "M3": 0.1,
+  "M4": 0.1,
+  "M5": 0.1,
+  "M6": 0.1
+ },
+ "sp_rules": {
+  "CO": {
+   "CO": 0.1,
+   "PO": 0.1,
+   "RPO": 0.3
+  },
+  "M1": {
+   "M1": 0.1
+  },
+  "VIA1": {
+   "VIA1": 0.09
+  },
+  "M2": {
+   "M2": 0.1
+  },
+  "M3": {
+   "M3": 0.1
+  },
+  "M4": {
+   "M4": 0.1
+  },
+  "M5": {
+   "M5": 0.1
+  },
+  "M6": {
+   "M6": 0.1
+  }
+ },
+ "en_rules": {
+  "M1": {
+   "CO": 0.05
+  },
+  "OD": {
+   "PO": 0.1,
+   "CO": 0.04
+  },
+  "PO": {
+   "CO": 0.05
+  },
+  "NP": {
+   "PO": 0.25
+  },
+  "NW": {
+   "OD_0": 0.1,
+   "OD_1": 0.2
+  },
+  "PP": {
+   "PO": 0.25
+  },
+  "NT_N": {
+   "OD": 0.25
+  },
+  "RH": {
+   "PO": 0.25
+  }
+ },
+ "ex_rules": {
+  "PO": {
+   "OD": 0.15
+  },
+  "NP": {
+   "OD": 0.25
+  },
+  "PP": {
+   "OD": 0.25
+  },
+  "RPO": {
+   "PO": 0.4
+  }
+ },
+ "nwell_gr": true,
+ "sub_gr": false,
+ "nw_od": 0.3,
+ "np_od": 0.3,
+ "dummy_l": 0.05,
+ "crit_l": 0.1,
+ "crit_sp": 0.15,
+ "max_pairwise_clean_spacing": 0.2,
+ "gate_space_25": 0.6,
+ "en_od_25": 0.25,
+ "od_w": 0.2,
+ "sp_co_po_25": 0.15,
+ "w_via": 0.1,
+ "sp_via": 0.09,
+ "en_via": 0.05,
+ "en_pp_po_wo": 0.35,
+ "w_con": 0.15,
+ "lvs_sp_co": 0.1,
+ "sp_sub": 0.6,
+ "ex_po_od_na": 0.4,
+ "m_via": 0.05,
+ "Rsg": 1.0,
+ "Cpsm": 1.0,
+ "Wem": 0.2,
+ "textlayers": [
+  127,
+  131,
+  133
+ ],
+ "pmos": [
+  "pmos_example"
+ ],
+ "nmos": [
+  "nmos_example"
+ ],
+ "cap": [
+  "cap_example"
+ ],
+ "res": [
+  "res_example"
+ ],
+ "device_types": {
+  "match": "prefix",
+  "pmos": [
+   "pmos_example"
+  ],
+  "nmos": [
+   "nmos_example"
+  ],
+  "capacitor": [
+   "cap_example"
+  ],
+  "resistor": [
+   "res_example"
+  ],
+  "other": [],
+  "_comment": "PLACEHOLDER NAMES. Replace these with your own PDK's model names -- the strings your netlist actually uses -- or the run stops with an \"uncovered model\" error naming each one. Matching is case-insensitive and by prefix, so one family name covers its flavours. See docs/INPUT_FORMAT.md section 2.4."
+ }
+}

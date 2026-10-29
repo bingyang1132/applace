@@ -1,0 +1,500 @@
+{
+  "boundary": {
+    "xh": 92309,
+    "xl": 0,
+    "yh": 92309,
+    "yl": 0
+  },
+  "cells": [
+    {
+      "bbox": {
+        "xh": 9790,
+        "xl": 0,
+        "yh": 8980,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_C0",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 9790,
+        "xl": 0,
+        "yh": 8980,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_C1",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 18190,
+        "xl": 0,
+        "yh": 18780,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_C2",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 18190,
+        "xl": 0,
+        "yh": 18780,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_C3",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 5870,
+        "xl": 0,
+        "yh": 2280,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_C4",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 5870,
+        "xl": 0,
+        "yh": 2280,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_C5",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 5870,
+        "xl": 0,
+        "yh": 3480,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_C6",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 5870,
+        "xl": 0,
+        "yh": 3480,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_C7",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 27440,
+        "xl": 0,
+        "yh": 1530,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M1",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 13180,
+        "xl": 0,
+        "yh": 4230,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M10",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 8200,
+        "xl": 0,
+        "yh": 4230,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M12",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 1700,
+        "xl": 0,
+        "yh": 1530,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M13",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 1180,
+        "xl": 0,
+        "yh": 1230,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M14",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 3780,
+        "xl": 0,
+        "yh": 1530,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M15",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 3780,
+        "xl": 0,
+        "yh": 1530,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M16",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 13580,
+        "xl": 0,
+        "yh": 4230,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M17",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 13580,
+        "xl": 0,
+        "yh": 4230,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M18",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 3260,
+        "xl": 0,
+        "yh": 1530,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M19",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 3780,
+        "xl": 0,
+        "yh": 1530,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M2",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 1960,
+        "xl": 0,
+        "yh": 1530,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M20",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 1960,
+        "xl": 0,
+        "yh": 1530,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M21",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 2080,
+        "xl": 0,
+        "yh": 1850,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M24",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 1560,
+        "xl": 0,
+        "yh": 1850,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M25",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 10900,
+        "xl": 0,
+        "yh": 5450,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M26",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 10900,
+        "xl": 0,
+        "yh": 5450,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M27",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 780,
+        "xl": 0,
+        "yh": 1690,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M28",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 1700,
+        "xl": 0,
+        "yh": 1530,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M3",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 1960,
+        "xl": 0,
+        "yh": 1830,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M32",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 1440,
+        "xl": 0,
+        "yh": 1830,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M33",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 10100,
+        "xl": 0,
+        "yh": 4250,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M34",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 10100,
+        "xl": 0,
+        "yh": 4250,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M35",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 1040,
+        "xl": 0,
+        "yh": 1850,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M36",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 3780,
+        "xl": 0,
+        "yh": 1530,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M4",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 10800,
+        "xl": 0,
+        "yh": 4230,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M50",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 1180,
+        "xl": 0,
+        "yh": 1230,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M6",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 2080,
+        "xl": 0,
+        "yh": 1850,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M68",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 2080,
+        "xl": 0,
+        "yh": 1850,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M69",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 3780,
+        "xl": 0,
+        "yh": 1530,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M7",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 5720,
+        "xl": 0,
+        "yh": 3050,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M70",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 5720,
+        "xl": 0,
+        "yh": 3050,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M71",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 10920,
+        "xl": 0,
+        "yh": 1850,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M74",
+      "isPmos": true
+    },
+    {
+      "bbox": {
+        "xh": 13180,
+        "xl": 0,
+        "yh": 4230,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M8",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 8200,
+        "xl": 0,
+        "yh": 4230,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_M9",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 4000,
+        "xl": 0,
+        "yh": 7990,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_R0",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 4600,
+        "xl": 0,
+        "yh": 4090,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_R11",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 9185,
+        "xl": 0,
+        "yh": 11240,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_R12",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 4000,
+        "xl": 0,
+        "yh": 7990,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_R13",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 4600,
+        "xl": 0,
+        "yh": 4090,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_R14",
+      "isPmos": false
+    },
+    {
+      "bbox": {
+        "xh": 9185,
+        "xl": 0,
+        "yh": 11240,
+        "yl": 0
+      },
+      "cell_name": "OTA_2_R5",
+      "isPmos": false
+    }
+  ]
+}

@@ -1,0 +1,1764 @@
+{
+  "pins": [
+    {
+      "cell_name": "OTA_2_C0",
+      "isIO": false,
+      "name": "OTA_2_C0_0",
+      "nets": [
+        "OTA_2_net0118"
+      ],
+      "offset_x": 4895.0,
+      "offset_y": 4490.0
+    },
+    {
+      "cell_name": "OTA_2_C0",
+      "isIO": false,
+      "name": "OTA_2_C0_1",
+      "nets": [
+        "OTA_2_VO1M"
+      ],
+      "offset_x": 4895.0,
+      "offset_y": 4490.0
+    },
+    {
+      "cell_name": "OTA_2_C0",
+      "isIO": false,
+      "name": "OTA_2_C0_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 4895.0,
+      "offset_y": 4490.0
+    },
+    {
+      "cell_name": "OTA_2_C1",
+      "isIO": false,
+      "name": "OTA_2_C1_0",
+      "nets": [
+        "OTA_2_VO1P"
+      ],
+      "offset_x": 4895.0,
+      "offset_y": 4490.0
+    },
+    {
+      "cell_name": "OTA_2_C1",
+      "isIO": false,
+      "name": "OTA_2_C1_1",
+      "nets": [
+        "OTA_2_net0118"
+      ],
+      "offset_x": 4895.0,
+      "offset_y": 4490.0
+    },
+    {
+      "cell_name": "OTA_2_C1",
+      "isIO": false,
+      "name": "OTA_2_C1_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 4895.0,
+      "offset_y": 4490.0
+    },
+    {
+      "cell_name": "OTA_2_C2",
+      "isIO": false,
+      "name": "OTA_2_C2_0",
+      "nets": [
+        "VIP"
+      ],
+      "offset_x": 9095.0,
+      "offset_y": 9390.0
+    },
+    {
+      "cell_name": "OTA_2_C2",
+      "isIO": false,
+      "name": "OTA_2_C2_1",
+      "nets": [
+        "OTA_2_net092"
+      ],
+      "offset_x": 9095.0,
+      "offset_y": 9390.0
+    },
+    {
+      "cell_name": "OTA_2_C2",
+      "isIO": false,
+      "name": "OTA_2_C2_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 9095.0,
+      "offset_y": 9390.0
+    },
+    {
+      "cell_name": "OTA_2_C3",
+      "isIO": false,
+      "name": "OTA_2_C3_0",
+      "nets": [
+        "VIM"
+      ],
+      "offset_x": 9095.0,
+      "offset_y": 9390.0
+    },
+    {
+      "cell_name": "OTA_2_C3",
+      "isIO": false,
+      "name": "OTA_2_C3_1",
+      "nets": [
+        "OTA_2_net096"
+      ],
+      "offset_x": 9095.0,
+      "offset_y": 9390.0
+    },
+    {
+      "cell_name": "OTA_2_C3",
+      "isIO": false,
+      "name": "OTA_2_C3_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 9095.0,
+      "offset_y": 9390.0
+    },
+    {
+      "cell_name": "OTA_2_C4",
+      "isIO": false,
+      "name": "OTA_2_C4_0",
+      "nets": [
+        "OTA_2_net0101"
+      ],
+      "offset_x": 2935.0,
+      "offset_y": 1140.0
+    },
+    {
+      "cell_name": "OTA_2_C4",
+      "isIO": false,
+      "name": "OTA_2_C4_1",
+      "nets": [
+        "VOP"
+      ],
+      "offset_x": 2935.0,
+      "offset_y": 1140.0
+    },
+    {
+      "cell_name": "OTA_2_C4",
+      "isIO": false,
+      "name": "OTA_2_C4_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 2935.0,
+      "offset_y": 1140.0
+    },
+    {
+      "cell_name": "OTA_2_C5",
+      "isIO": false,
+      "name": "OTA_2_C5_0",
+      "nets": [
+        "VOM"
+      ],
+      "offset_x": 2935.0,
+      "offset_y": 1140.0
+    },
+    {
+      "cell_name": "OTA_2_C5",
+      "isIO": false,
+      "name": "OTA_2_C5_1",
+      "nets": [
+        "OTA_2_net0101"
+      ],
+      "offset_x": 2935.0,
+      "offset_y": 1140.0
+    },
+    {
+      "cell_name": "OTA_2_C5",
+      "isIO": false,
+      "name": "OTA_2_C5_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 2935.0,
+      "offset_y": 1140.0
+    },
+    {
+      "cell_name": "OTA_2_C6",
+      "isIO": false,
+      "name": "OTA_2_C6_0",
+      "nets": [
+        "VOM"
+      ],
+      "offset_x": 2935.0,
+      "offset_y": 1740.0
+    },
+    {
+      "cell_name": "OTA_2_C6",
+      "isIO": false,
+      "name": "OTA_2_C6_1",
+      "nets": [
+        "OTA_2_vtail"
+      ],
+      "offset_x": 2935.0,
+      "offset_y": 1740.0
+    },
+    {
+      "cell_name": "OTA_2_C6",
+      "isIO": false,
+      "name": "OTA_2_C6_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 2935.0,
+      "offset_y": 1740.0
+    },
+    {
+      "cell_name": "OTA_2_C7",
+      "isIO": false,
+      "name": "OTA_2_C7_0",
+      "nets": [
+        "OTA_2_vtail"
+      ],
+      "offset_x": 2935.0,
+      "offset_y": 1740.0
+    },
+    {
+      "cell_name": "OTA_2_C7",
+      "isIO": false,
+      "name": "OTA_2_C7_1",
+      "nets": [
+        "VOP"
+      ],
+      "offset_x": 2935.0,
+      "offset_y": 1740.0
+    },
+    {
+      "cell_name": "OTA_2_C7",
+      "isIO": false,
+      "name": "OTA_2_C7_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 2935.0,
+      "offset_y": 1740.0
+    },
+    {
+      "cell_name": "OTA_2_M1",
+      "isIO": false,
+      "name": "OTA_2_M1_0",
+      "nets": [
+        "OTA_2_NTAIL"
+      ],
+      "offset_x": 13720.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M1",
+      "isIO": false,
+      "name": "OTA_2_M1_1",
+      "nets": [
+        "OTA_2_TAIL"
+      ],
+      "offset_x": 13720.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M1",
+      "isIO": false,
+      "name": "OTA_2_M1_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 13720.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M1",
+      "isIO": false,
+      "name": "OTA_2_M1_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 13720.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M10",
+      "isIO": false,
+      "name": "OTA_2_M10_0",
+      "nets": [
+        "OTA_2_net0131"
+      ],
+      "offset_x": 6590.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M10",
+      "isIO": false,
+      "name": "OTA_2_M10_1",
+      "nets": [
+        "VIM"
+      ],
+      "offset_x": 6590.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M10",
+      "isIO": false,
+      "name": "OTA_2_M10_2",
+      "nets": [
+        "OTA_2_NTAIL"
+      ],
+      "offset_x": 6590.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M10",
+      "isIO": false,
+      "name": "OTA_2_M10_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 6590.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M12",
+      "isIO": false,
+      "name": "OTA_2_M12_0",
+      "nets": [
+        "VOP"
+      ],
+      "offset_x": 4100.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M12",
+      "isIO": false,
+      "name": "OTA_2_M12_1",
+      "nets": [
+        "OTA_2_net096"
+      ],
+      "offset_x": 4100.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M12",
+      "isIO": false,
+      "name": "OTA_2_M12_2",
+      "nets": [
+        "OTA_2_vs"
+      ],
+      "offset_x": 4100.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M12",
+      "isIO": false,
+      "name": "OTA_2_M12_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 4100.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M13",
+      "isIO": false,
+      "name": "OTA_2_M13_0",
+      "nets": [
+        "OTA_2_net077"
+      ],
+      "offset_x": 850.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M13",
+      "isIO": false,
+      "name": "OTA_2_M13_1",
+      "nets": [
+        "VCM"
+      ],
+      "offset_x": 850.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M13",
+      "isIO": false,
+      "name": "OTA_2_M13_2",
+      "nets": [
+        "OTA_2_net0135"
+      ],
+      "offset_x": 850.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M13",
+      "isIO": false,
+      "name": "OTA_2_M13_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 850.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M14",
+      "isIO": false,
+      "name": "OTA_2_M14_0",
+      "nets": [
+        "OTA_2_INCM2"
+      ],
+      "offset_x": 590.0,
+      "offset_y": 615.0
+    },
+    {
+      "cell_name": "OTA_2_M14",
+      "isIO": false,
+      "name": "OTA_2_M14_1",
+      "nets": [
+        "OTA_2_INCM2"
+      ],
+      "offset_x": 590.0,
+      "offset_y": 615.0
+    },
+    {
+      "cell_name": "OTA_2_M14",
+      "isIO": false,
+      "name": "OTA_2_M14_2",
+      "nets": [
+        "OTA_2_net0137"
+      ],
+      "offset_x": 590.0,
+      "offset_y": 615.0
+    },
+    {
+      "cell_name": "OTA_2_M14",
+      "isIO": false,
+      "name": "OTA_2_M14_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 590.0,
+      "offset_y": 615.0
+    },
+    {
+      "cell_name": "OTA_2_M15",
+      "isIO": false,
+      "name": "OTA_2_M15_0",
+      "nets": [
+        "OTA_2_TAIL"
+      ],
+      "offset_x": 1890.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M15",
+      "isIO": false,
+      "name": "OTA_2_M15_1",
+      "nets": [
+        "VCM"
+      ],
+      "offset_x": 1890.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M15",
+      "isIO": false,
+      "name": "OTA_2_M15_2",
+      "nets": [
+        "OTA_2_VN2"
+      ],
+      "offset_x": 1890.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M15",
+      "isIO": false,
+      "name": "OTA_2_M15_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 1890.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M16",
+      "isIO": false,
+      "name": "OTA_2_M16_0",
+      "nets": [
+        "OTA_2_PCAS"
+      ],
+      "offset_x": 1890.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M16",
+      "isIO": false,
+      "name": "OTA_2_M16_1",
+      "nets": [
+        "VCM"
+      ],
+      "offset_x": 1890.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M16",
+      "isIO": false,
+      "name": "OTA_2_M16_2",
+      "nets": [
+        "OTA_2_VN1"
+      ],
+      "offset_x": 1890.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M16",
+      "isIO": false,
+      "name": "OTA_2_M16_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 1890.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M17",
+      "isIO": false,
+      "name": "OTA_2_M17_0",
+      "nets": [
+        "OTA_2_VO1M"
+      ],
+      "offset_x": 6790.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M17",
+      "isIO": false,
+      "name": "OTA_2_M17_1",
+      "nets": [
+        "IBIAS"
+      ],
+      "offset_x": 6790.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M17",
+      "isIO": false,
+      "name": "OTA_2_M17_2",
+      "nets": [
+        "OTA_2_net0133"
+      ],
+      "offset_x": 6790.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M17",
+      "isIO": false,
+      "name": "OTA_2_M17_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 6790.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M18",
+      "isIO": false,
+      "name": "OTA_2_M18_0",
+      "nets": [
+        "OTA_2_VO1P"
+      ],
+      "offset_x": 6790.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M18",
+      "isIO": false,
+      "name": "OTA_2_M18_1",
+      "nets": [
+        "IBIAS"
+      ],
+      "offset_x": 6790.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M18",
+      "isIO": false,
+      "name": "OTA_2_M18_2",
+      "nets": [
+        "OTA_2_net0131"
+      ],
+      "offset_x": 6790.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M18",
+      "isIO": false,
+      "name": "OTA_2_M18_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 6790.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M19",
+      "isIO": false,
+      "name": "OTA_2_M19_0",
+      "nets": [
+        "IBIAS"
+      ],
+      "offset_x": 1630.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M19",
+      "isIO": false,
+      "name": "OTA_2_M19_1",
+      "nets": [
+        "IBIAS"
+      ],
+      "offset_x": 1630.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M19",
+      "isIO": false,
+      "name": "OTA_2_M19_2",
+      "nets": [
+        "OTA_2_TAIL"
+      ],
+      "offset_x": 1630.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M19",
+      "isIO": false,
+      "name": "OTA_2_M19_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 1630.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M2",
+      "isIO": false,
+      "name": "OTA_2_M2_0",
+      "nets": [
+        "OTA_2_VN1"
+      ],
+      "offset_x": 1890.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M2",
+      "isIO": false,
+      "name": "OTA_2_M2_1",
+      "nets": [
+        "OTA_2_TAIL"
+      ],
+      "offset_x": 1890.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M2",
+      "isIO": false,
+      "name": "OTA_2_M2_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 1890.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M2",
+      "isIO": false,
+      "name": "OTA_2_M2_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 1890.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M20",
+      "isIO": false,
+      "name": "OTA_2_M20_0",
+      "nets": [
+        "OTA_2_vtail"
+      ],
+      "offset_x": 980.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M20",
+      "isIO": false,
+      "name": "OTA_2_M20_1",
+      "nets": [
+        "VCM"
+      ],
+      "offset_x": 980.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M20",
+      "isIO": false,
+      "name": "OTA_2_M20_2",
+      "nets": [
+        "OTA_2_CMFBTAIL"
+      ],
+      "offset_x": 980.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M20",
+      "isIO": false,
+      "name": "OTA_2_M20_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 980.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M21",
+      "isIO": false,
+      "name": "OTA_2_M21_0",
+      "nets": [
+        "OTA_2_net0104"
+      ],
+      "offset_x": 980.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M21",
+      "isIO": false,
+      "name": "OTA_2_M21_1",
+      "nets": [
+        "OTA_2_net0101"
+      ],
+      "offset_x": 980.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M21",
+      "isIO": false,
+      "name": "OTA_2_M21_2",
+      "nets": [
+        "OTA_2_CMFBTAIL"
+      ],
+      "offset_x": 980.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M21",
+      "isIO": false,
+      "name": "OTA_2_M21_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 980.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M24",
+      "isIO": false,
+      "name": "OTA_2_M24_0",
+      "nets": [
+        "OTA_2_net077"
+      ],
+      "offset_x": 1040.0,
+      "offset_y": 925.0
+    },
+    {
+      "cell_name": "OTA_2_M24",
+      "isIO": false,
+      "name": "OTA_2_M24_1",
+      "nets": [
+        "OTA_2_PCAS"
+      ],
+      "offset_x": 1040.0,
+      "offset_y": 925.0
+    },
+    {
+      "cell_name": "OTA_2_M24",
+      "isIO": false,
+      "name": "OTA_2_M24_2",
+      "nets": [
+        "OTA_2_net0136"
+      ],
+      "offset_x": 1040.0,
+      "offset_y": 925.0
+    },
+    {
+      "cell_name": "OTA_2_M24",
+      "isIO": false,
+      "name": "OTA_2_M24_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 1040.0,
+      "offset_y": 925.0
+    },
+    {
+      "cell_name": "OTA_2_M25",
+      "isIO": false,
+      "name": "OTA_2_M25_0",
+      "nets": [
+        "OTA_2_INCM2"
+      ],
+      "offset_x": 780.0,
+      "offset_y": 925.0
+    },
+    {
+      "cell_name": "OTA_2_M25",
+      "isIO": false,
+      "name": "OTA_2_M25_1",
+      "nets": [
+        "OTA_2_PCAS"
+      ],
+      "offset_x": 780.0,
+      "offset_y": 925.0
+    },
+    {
+      "cell_name": "OTA_2_M25",
+      "isIO": false,
+      "name": "OTA_2_M25_2",
+      "nets": [
+        "OTA_2_net0138"
+      ],
+      "offset_x": 780.0,
+      "offset_y": 925.0
+    },
+    {
+      "cell_name": "OTA_2_M25",
+      "isIO": false,
+      "name": "OTA_2_M25_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 780.0,
+      "offset_y": 925.0
+    },
+    {
+      "cell_name": "OTA_2_M26",
+      "isIO": false,
+      "name": "OTA_2_M26_0",
+      "nets": [
+        "OTA_2_VO1M"
+      ],
+      "offset_x": 5450.0,
+      "offset_y": 2725.0
+    },
+    {
+      "cell_name": "OTA_2_M26",
+      "isIO": false,
+      "name": "OTA_2_M26_1",
+      "nets": [
+        "OTA_2_PCAS"
+      ],
+      "offset_x": 5450.0,
+      "offset_y": 2725.0
+    },
+    {
+      "cell_name": "OTA_2_M26",
+      "isIO": false,
+      "name": "OTA_2_M26_2",
+      "nets": [
+        "OTA_2_net0132"
+      ],
+      "offset_x": 5450.0,
+      "offset_y": 2725.0
+    },
+    {
+      "cell_name": "OTA_2_M26",
+      "isIO": false,
+      "name": "OTA_2_M26_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 5450.0,
+      "offset_y": 2725.0
+    },
+    {
+      "cell_name": "OTA_2_M27",
+      "isIO": false,
+      "name": "OTA_2_M27_0",
+      "nets": [
+        "OTA_2_VO1P"
+      ],
+      "offset_x": 5450.0,
+      "offset_y": 2725.0
+    },
+    {
+      "cell_name": "OTA_2_M27",
+      "isIO": false,
+      "name": "OTA_2_M27_1",
+      "nets": [
+        "OTA_2_PCAS"
+      ],
+      "offset_x": 5450.0,
+      "offset_y": 2725.0
+    },
+    {
+      "cell_name": "OTA_2_M27",
+      "isIO": false,
+      "name": "OTA_2_M27_2",
+      "nets": [
+        "OTA_2_net0130"
+      ],
+      "offset_x": 5450.0,
+      "offset_y": 2725.0
+    },
+    {
+      "cell_name": "OTA_2_M27",
+      "isIO": false,
+      "name": "OTA_2_M27_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 5450.0,
+      "offset_y": 2725.0
+    },
+    {
+      "cell_name": "OTA_2_M28",
+      "isIO": false,
+      "name": "OTA_2_M28_0",
+      "nets": [
+        "OTA_2_PCAS"
+      ],
+      "offset_x": 390.0,
+      "offset_y": 845.0
+    },
+    {
+      "cell_name": "OTA_2_M28",
+      "isIO": false,
+      "name": "OTA_2_M28_1",
+      "nets": [
+        "OTA_2_PCAS"
+      ],
+      "offset_x": 390.0,
+      "offset_y": 845.0
+    },
+    {
+      "cell_name": "OTA_2_M28",
+      "isIO": false,
+      "name": "OTA_2_M28_2",
+      "nets": [
+        "OTA_2_net0134"
+      ],
+      "offset_x": 390.0,
+      "offset_y": 845.0
+    },
+    {
+      "cell_name": "OTA_2_M28",
+      "isIO": false,
+      "name": "OTA_2_M28_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 390.0,
+      "offset_y": 845.0
+    },
+    {
+      "cell_name": "OTA_2_M3",
+      "isIO": false,
+      "name": "OTA_2_M3_0",
+      "nets": [
+        "OTA_2_net0135"
+      ],
+      "offset_x": 850.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M3",
+      "isIO": false,
+      "name": "OTA_2_M3_1",
+      "nets": [
+        "OTA_2_TAIL"
+      ],
+      "offset_x": 850.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M3",
+      "isIO": false,
+      "name": "OTA_2_M3_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 850.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M3",
+      "isIO": false,
+      "name": "OTA_2_M3_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 850.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M32",
+      "isIO": false,
+      "name": "OTA_2_M32_0",
+      "nets": [
+        "OTA_2_net0136"
+      ],
+      "offset_x": 980.0,
+      "offset_y": 915.0
+    },
+    {
+      "cell_name": "OTA_2_M32",
+      "isIO": false,
+      "name": "OTA_2_M32_1",
+      "nets": [
+        "OTA_2_net077"
+      ],
+      "offset_x": 980.0,
+      "offset_y": 915.0
+    },
+    {
+      "cell_name": "OTA_2_M32",
+      "isIO": false,
+      "name": "OTA_2_M32_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 980.0,
+      "offset_y": 915.0
+    },
+    {
+      "cell_name": "OTA_2_M32",
+      "isIO": false,
+      "name": "OTA_2_M32_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 980.0,
+      "offset_y": 915.0
+    },
+    {
+      "cell_name": "OTA_2_M33",
+      "isIO": false,
+      "name": "OTA_2_M33_0",
+      "nets": [
+        "OTA_2_net0138"
+      ],
+      "offset_x": 720.0,
+      "offset_y": 915.0
+    },
+    {
+      "cell_name": "OTA_2_M33",
+      "isIO": false,
+      "name": "OTA_2_M33_1",
+      "nets": [
+        "OTA_2_net077"
+      ],
+      "offset_x": 720.0,
+      "offset_y": 915.0
+    },
+    {
+      "cell_name": "OTA_2_M33",
+      "isIO": false,
+      "name": "OTA_2_M33_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 720.0,
+      "offset_y": 915.0
+    },
+    {
+      "cell_name": "OTA_2_M33",
+      "isIO": false,
+      "name": "OTA_2_M33_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 720.0,
+      "offset_y": 915.0
+    },
+    {
+      "cell_name": "OTA_2_M34",
+      "isIO": false,
+      "name": "OTA_2_M34_0",
+      "nets": [
+        "OTA_2_net0130"
+      ],
+      "offset_x": 5050.0,
+      "offset_y": 2125.0
+    },
+    {
+      "cell_name": "OTA_2_M34",
+      "isIO": false,
+      "name": "OTA_2_M34_1",
+      "nets": [
+        "VIM"
+      ],
+      "offset_x": 5050.0,
+      "offset_y": 2125.0
+    },
+    {
+      "cell_name": "OTA_2_M34",
+      "isIO": false,
+      "name": "OTA_2_M34_2",
+      "nets": [
+        "OTA_2_PTAIL"
+      ],
+      "offset_x": 5050.0,
+      "offset_y": 2125.0
+    },
+    {
+      "cell_name": "OTA_2_M34",
+      "isIO": false,
+      "name": "OTA_2_M34_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 5050.0,
+      "offset_y": 2125.0
+    },
+    {
+      "cell_name": "OTA_2_M35",
+      "isIO": false,
+      "name": "OTA_2_M35_0",
+      "nets": [
+        "OTA_2_net0132"
+      ],
+      "offset_x": 5050.0,
+      "offset_y": 2125.0
+    },
+    {
+      "cell_name": "OTA_2_M35",
+      "isIO": false,
+      "name": "OTA_2_M35_1",
+      "nets": [
+        "VIP"
+      ],
+      "offset_x": 5050.0,
+      "offset_y": 2125.0
+    },
+    {
+      "cell_name": "OTA_2_M35",
+      "isIO": false,
+      "name": "OTA_2_M35_2",
+      "nets": [
+        "OTA_2_PTAIL"
+      ],
+      "offset_x": 5050.0,
+      "offset_y": 2125.0
+    },
+    {
+      "cell_name": "OTA_2_M35",
+      "isIO": false,
+      "name": "OTA_2_M35_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 5050.0,
+      "offset_y": 2125.0
+    },
+    {
+      "cell_name": "OTA_2_M36",
+      "isIO": false,
+      "name": "OTA_2_M36_0",
+      "nets": [
+        "OTA_2_net0134"
+      ],
+      "offset_x": 520.0,
+      "offset_y": 925.0
+    },
+    {
+      "cell_name": "OTA_2_M36",
+      "isIO": false,
+      "name": "OTA_2_M36_1",
+      "nets": [
+        "OTA_2_PCAS"
+      ],
+      "offset_x": 520.0,
+      "offset_y": 925.0
+    },
+    {
+      "cell_name": "OTA_2_M36",
+      "isIO": false,
+      "name": "OTA_2_M36_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 520.0,
+      "offset_y": 925.0
+    },
+    {
+      "cell_name": "OTA_2_M36",
+      "isIO": false,
+      "name": "OTA_2_M36_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 520.0,
+      "offset_y": 925.0
+    },
+    {
+      "cell_name": "OTA_2_M4",
+      "isIO": false,
+      "name": "OTA_2_M4_0",
+      "nets": [
+        "OTA_2_VN2"
+      ],
+      "offset_x": 1890.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M4",
+      "isIO": false,
+      "name": "OTA_2_M4_1",
+      "nets": [
+        "OTA_2_TAIL"
+      ],
+      "offset_x": 1890.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M4",
+      "isIO": false,
+      "name": "OTA_2_M4_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 1890.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M4",
+      "isIO": false,
+      "name": "OTA_2_M4_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 1890.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M50",
+      "isIO": false,
+      "name": "OTA_2_M50_0",
+      "nets": [
+        "OTA_2_vs"
+      ],
+      "offset_x": 5400.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M50",
+      "isIO": false,
+      "name": "OTA_2_M50_1",
+      "nets": [
+        "OTA_2_vtail"
+      ],
+      "offset_x": 5400.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M50",
+      "isIO": false,
+      "name": "OTA_2_M50_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 5400.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M50",
+      "isIO": false,
+      "name": "OTA_2_M50_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 5400.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M6",
+      "isIO": false,
+      "name": "OTA_2_M6_0",
+      "nets": [
+        "OTA_2_net0137"
+      ],
+      "offset_x": 590.0,
+      "offset_y": 615.0
+    },
+    {
+      "cell_name": "OTA_2_M6",
+      "isIO": false,
+      "name": "OTA_2_M6_1",
+      "nets": [
+        "OTA_2_INCM2"
+      ],
+      "offset_x": 590.0,
+      "offset_y": 615.0
+    },
+    {
+      "cell_name": "OTA_2_M6",
+      "isIO": false,
+      "name": "OTA_2_M6_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 590.0,
+      "offset_y": 615.0
+    },
+    {
+      "cell_name": "OTA_2_M6",
+      "isIO": false,
+      "name": "OTA_2_M6_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 590.0,
+      "offset_y": 615.0
+    },
+    {
+      "cell_name": "OTA_2_M68",
+      "isIO": false,
+      "name": "OTA_2_M68_0",
+      "nets": [
+        "OTA_2_vtail"
+      ],
+      "offset_x": 1040.0,
+      "offset_y": 925.0
+    },
+    {
+      "cell_name": "OTA_2_M68",
+      "isIO": false,
+      "name": "OTA_2_M68_1",
+      "nets": [
+        "OTA_2_net0104"
+      ],
+      "offset_x": 1040.0,
+      "offset_y": 925.0
+    },
+    {
+      "cell_name": "OTA_2_M68",
+      "isIO": false,
+      "name": "OTA_2_M68_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 1040.0,
+      "offset_y": 925.0
+    },
+    {
+      "cell_name": "OTA_2_M68",
+      "isIO": false,
+      "name": "OTA_2_M68_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 1040.0,
+      "offset_y": 925.0
+    },
+    {
+      "cell_name": "OTA_2_M69",
+      "isIO": false,
+      "name": "OTA_2_M69_0",
+      "nets": [
+        "OTA_2_net0104"
+      ],
+      "offset_x": 1040.0,
+      "offset_y": 925.0
+    },
+    {
+      "cell_name": "OTA_2_M69",
+      "isIO": false,
+      "name": "OTA_2_M69_1",
+      "nets": [
+        "OTA_2_net0104"
+      ],
+      "offset_x": 1040.0,
+      "offset_y": 925.0
+    },
+    {
+      "cell_name": "OTA_2_M69",
+      "isIO": false,
+      "name": "OTA_2_M69_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 1040.0,
+      "offset_y": 925.0
+    },
+    {
+      "cell_name": "OTA_2_M69",
+      "isIO": false,
+      "name": "OTA_2_M69_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 1040.0,
+      "offset_y": 925.0
+    },
+    {
+      "cell_name": "OTA_2_M7",
+      "isIO": false,
+      "name": "OTA_2_M7_0",
+      "nets": [
+        "OTA_2_CMFBTAIL"
+      ],
+      "offset_x": 1890.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M7",
+      "isIO": false,
+      "name": "OTA_2_M7_1",
+      "nets": [
+        "OTA_2_TAIL"
+      ],
+      "offset_x": 1890.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M7",
+      "isIO": false,
+      "name": "OTA_2_M7_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 1890.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M7",
+      "isIO": false,
+      "name": "OTA_2_M7_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 1890.0,
+      "offset_y": 765.0
+    },
+    {
+      "cell_name": "OTA_2_M70",
+      "isIO": false,
+      "name": "OTA_2_M70_0",
+      "nets": [
+        "VOM"
+      ],
+      "offset_x": 2860.0,
+      "offset_y": 1525.0
+    },
+    {
+      "cell_name": "OTA_2_M70",
+      "isIO": false,
+      "name": "OTA_2_M70_1",
+      "nets": [
+        "OTA_2_VO1P"
+      ],
+      "offset_x": 2860.0,
+      "offset_y": 1525.0
+    },
+    {
+      "cell_name": "OTA_2_M70",
+      "isIO": false,
+      "name": "OTA_2_M70_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 2860.0,
+      "offset_y": 1525.0
+    },
+    {
+      "cell_name": "OTA_2_M70",
+      "isIO": false,
+      "name": "OTA_2_M70_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 2860.0,
+      "offset_y": 1525.0
+    },
+    {
+      "cell_name": "OTA_2_M71",
+      "isIO": false,
+      "name": "OTA_2_M71_0",
+      "nets": [
+        "VOP"
+      ],
+      "offset_x": 2860.0,
+      "offset_y": 1525.0
+    },
+    {
+      "cell_name": "OTA_2_M71",
+      "isIO": false,
+      "name": "OTA_2_M71_1",
+      "nets": [
+        "OTA_2_VO1M"
+      ],
+      "offset_x": 2860.0,
+      "offset_y": 1525.0
+    },
+    {
+      "cell_name": "OTA_2_M71",
+      "isIO": false,
+      "name": "OTA_2_M71_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 2860.0,
+      "offset_y": 1525.0
+    },
+    {
+      "cell_name": "OTA_2_M71",
+      "isIO": false,
+      "name": "OTA_2_M71_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 2860.0,
+      "offset_y": 1525.0
+    },
+    {
+      "cell_name": "OTA_2_M74",
+      "isIO": false,
+      "name": "OTA_2_M74_0",
+      "nets": [
+        "OTA_2_PTAIL"
+      ],
+      "offset_x": 5460.0,
+      "offset_y": 925.0
+    },
+    {
+      "cell_name": "OTA_2_M74",
+      "isIO": false,
+      "name": "OTA_2_M74_1",
+      "nets": [
+        "OTA_2_net0118"
+      ],
+      "offset_x": 5460.0,
+      "offset_y": 925.0
+    },
+    {
+      "cell_name": "OTA_2_M74",
+      "isIO": false,
+      "name": "OTA_2_M74_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 5460.0,
+      "offset_y": 925.0
+    },
+    {
+      "cell_name": "OTA_2_M74",
+      "isIO": false,
+      "name": "OTA_2_M74_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 5460.0,
+      "offset_y": 925.0
+    },
+    {
+      "cell_name": "OTA_2_M8",
+      "isIO": false,
+      "name": "OTA_2_M8_0",
+      "nets": [
+        "OTA_2_net0133"
+      ],
+      "offset_x": 6590.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M8",
+      "isIO": false,
+      "name": "OTA_2_M8_1",
+      "nets": [
+        "VIP"
+      ],
+      "offset_x": 6590.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M8",
+      "isIO": false,
+      "name": "OTA_2_M8_2",
+      "nets": [
+        "OTA_2_NTAIL"
+      ],
+      "offset_x": 6590.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M8",
+      "isIO": false,
+      "name": "OTA_2_M8_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 6590.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M9",
+      "isIO": false,
+      "name": "OTA_2_M9_0",
+      "nets": [
+        "VOM"
+      ],
+      "offset_x": 4100.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M9",
+      "isIO": false,
+      "name": "OTA_2_M9_1",
+      "nets": [
+        "OTA_2_net092"
+      ],
+      "offset_x": 4100.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M9",
+      "isIO": false,
+      "name": "OTA_2_M9_2",
+      "nets": [
+        "OTA_2_vs"
+      ],
+      "offset_x": 4100.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_M9",
+      "isIO": false,
+      "name": "OTA_2_M9_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 4100.0,
+      "offset_y": 2115.0
+    },
+    {
+      "cell_name": "OTA_2_R0",
+      "isIO": false,
+      "name": "OTA_2_R0_0",
+      "nets": [
+        "OTA_2_net092"
+      ],
+      "offset_x": 2000.0,
+      "offset_y": 3995.0
+    },
+    {
+      "cell_name": "OTA_2_R0",
+      "isIO": false,
+      "name": "OTA_2_R0_1",
+      "nets": [
+        "OTA_2_INCM2"
+      ],
+      "offset_x": 2000.0,
+      "offset_y": 3995.0
+    },
+    {
+      "cell_name": "OTA_2_R11",
+      "isIO": false,
+      "name": "OTA_2_R11_0",
+      "nets": [
+        "OTA_2_net0101"
+      ],
+      "offset_x": 2300.0,
+      "offset_y": 2045.0
+    },
+    {
+      "cell_name": "OTA_2_R11",
+      "isIO": false,
+      "name": "OTA_2_R11_1",
+      "nets": [
+        "VOM"
+      ],
+      "offset_x": 2300.0,
+      "offset_y": 2045.0
+    },
+    {
+      "cell_name": "OTA_2_R12",
+      "isIO": false,
+      "name": "OTA_2_R12_0",
+      "nets": [
+        "OTA_2_net0118"
+      ],
+      "offset_x": 4592.5,
+      "offset_y": 5620.0
+    },
+    {
+      "cell_name": "OTA_2_R12",
+      "isIO": false,
+      "name": "OTA_2_R12_1",
+      "nets": [
+        "OTA_2_VO1P"
+      ],
+      "offset_x": 4592.5,
+      "offset_y": 5620.0
+    },
+    {
+      "cell_name": "OTA_2_R13",
+      "isIO": false,
+      "name": "OTA_2_R13_0",
+      "nets": [
+        "OTA_2_net096"
+      ],
+      "offset_x": 2000.0,
+      "offset_y": 3995.0
+    },
+    {
+      "cell_name": "OTA_2_R13",
+      "isIO": false,
+      "name": "OTA_2_R13_1",
+      "nets": [
+        "OTA_2_INCM2"
+      ],
+      "offset_x": 2000.0,
+      "offset_y": 3995.0
+    },
+    {
+      "cell_name": "OTA_2_R14",
+      "isIO": false,
+      "name": "OTA_2_R14_0",
+      "nets": [
+        "VOP"
+      ],
+      "offset_x": 2300.0,
+      "offset_y": 2045.0
+    },
+    {
+      "cell_name": "OTA_2_R14",
+      "isIO": false,
+      "name": "OTA_2_R14_1",
+      "nets": [
+        "OTA_2_net0101"
+      ],
+      "offset_x": 2300.0,
+      "offset_y": 2045.0
+    },
+    {
+      "cell_name": "OTA_2_R5",
+      "isIO": false,
+      "name": "OTA_2_R5_0",
+      "nets": [
+        "OTA_2_VO1M"
+      ],
+      "offset_x": 4592.5,
+      "offset_y": 5620.0
+    },
+    {
+      "cell_name": "OTA_2_R5",
+      "isIO": false,
+      "name": "OTA_2_R5_1",
+      "nets": [
+        "OTA_2_net0118"
+      ],
+      "offset_x": 4592.5,
+      "offset_y": 5620.0
+    }
+  ]
+}

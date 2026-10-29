@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use APPlace in your research, please cite the paper below."
+title: "APPlace: an analytical placer for analog layout"
+abstract: >-
+  APPlace is a routing-aware analytical placement framework for analog circuits.
+  It co-optimizes device locations and access points during global placement, and
+  preserves the resulting structure through legalization. This repository contains
+  the Rust implementation of the placement flow and four runnable example designs.
+type: software
+version: 0.1.0
+date-released: "2026-09-17"
+license: GPL-3.0
+repository-code: "https://github.com/bingyang1132/applace"
+# doi: "10.xxxx/xxxxx"   # added when an archived copy of this release is minted
+authors:
+  - family-names: Liu
+    given-names: Bingyang
+  - family-names: Gao
+    given-names: Xiaohan
+  - family-names: Poddar
+    given-names: Souradip
+  - family-names: Pan
+    given-names: "David Z."
+keywords:
+  - analog layout
+  - placement
+  - electronic design automation
+preferred-citation:
+  type: conference-paper
+  title: >-
+    APPlace: Co-Optimizing Device Locations and Access Points for Routing-Aware
+    Analog Placement
+  year: 2027
+  collection-title: >-
+    Proceedings of the Asia and South Pacific Design Automation Conference
+    (ASP-DAC)
+  notes: "To appear."
+  authors:
+    - family-names: Liu
+      given-names: Bingyang
+    - family-names: Gao
+      given-names: Xiaohan
+    - family-names: Poddar
+      given-names: Souradip
+    - family-names: Pan
+      given-names: "David Z."

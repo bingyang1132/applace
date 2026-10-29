@@ -1,0 +1,964 @@
+{
+  "pins": [
+    {
+      "cell_name": "Core_test_flow_C0",
+      "isIO": false,
+      "name": "Core_test_flow_C0_0",
+      "nets": [
+        "OUTP"
+      ],
+      "offset_x": 14670.0,
+      "offset_y": 6780.0
+    },
+    {
+      "cell_name": "Core_test_flow_C0",
+      "isIO": false,
+      "name": "Core_test_flow_C0_1",
+      "nets": [
+        "Core_test_flow_net047"
+      ],
+      "offset_x": 14670.0,
+      "offset_y": 6780.0
+    },
+    {
+      "cell_name": "Core_test_flow_C1",
+      "isIO": false,
+      "name": "Core_test_flow_C1_0",
+      "nets": [
+        "OUTM"
+      ],
+      "offset_x": 14670.0,
+      "offset_y": 6780.0
+    },
+    {
+      "cell_name": "Core_test_flow_C1",
+      "isIO": false,
+      "name": "Core_test_flow_C1_1",
+      "nets": [
+        "Core_test_flow_net037"
+      ],
+      "offset_x": 14670.0,
+      "offset_y": 6780.0
+    },
+    {
+      "cell_name": "Core_test_flow_M0",
+      "isIO": false,
+      "name": "Core_test_flow_M0_0",
+      "nets": [
+        "Core_test_flow_intp"
+      ],
+      "offset_x": 4560.0,
+      "offset_y": 2815.0
+    },
+    {
+      "cell_name": "Core_test_flow_M0",
+      "isIO": false,
+      "name": "Core_test_flow_M0_1",
+      "nets": [
+        "INM"
+      ],
+      "offset_x": 4560.0,
+      "offset_y": 2815.0
+    },
+    {
+      "cell_name": "Core_test_flow_M0",
+      "isIO": false,
+      "name": "Core_test_flow_M0_2",
+      "nets": [
+        "Core_test_flow_net7"
+      ],
+      "offset_x": 4560.0,
+      "offset_y": 2815.0
+    },
+    {
+      "cell_name": "Core_test_flow_M0",
+      "isIO": false,
+      "name": "Core_test_flow_M0_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 4560.0,
+      "offset_y": 2815.0
+    },
+    {
+      "cell_name": "Core_test_flow_M1",
+      "isIO": false,
+      "name": "Core_test_flow_M1_0",
+      "nets": [
+        "OUTM"
+      ],
+      "offset_x": 1820.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M1",
+      "isIO": false,
+      "name": "Core_test_flow_M1_1",
+      "nets": [
+        "Core_test_flow_intp"
+      ],
+      "offset_x": 1820.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M1",
+      "isIO": false,
+      "name": "Core_test_flow_M1_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 1820.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M1",
+      "isIO": false,
+      "name": "Core_test_flow_M1_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 1820.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M10",
+      "isIO": false,
+      "name": "Core_test_flow_M10_0",
+      "nets": [
+        "Core_test_flow_net7"
+      ],
+      "offset_x": 2280.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M10",
+      "isIO": false,
+      "name": "Core_test_flow_M10_1",
+      "nets": [
+        "Core_test_flow_n"
+      ],
+      "offset_x": 2280.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M10",
+      "isIO": false,
+      "name": "Core_test_flow_M10_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 2280.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M10",
+      "isIO": false,
+      "name": "Core_test_flow_M10_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 2280.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M11",
+      "isIO": false,
+      "name": "Core_test_flow_M11_0",
+      "nets": [
+        "Core_test_flow_net7"
+      ],
+      "offset_x": 720.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M11",
+      "isIO": false,
+      "name": "Core_test_flow_M11_1",
+      "nets": [
+        "Core_test_flow_vcmfb"
+      ],
+      "offset_x": 720.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M11",
+      "isIO": false,
+      "name": "Core_test_flow_M11_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 720.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M11",
+      "isIO": false,
+      "name": "Core_test_flow_M11_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 720.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M12",
+      "isIO": false,
+      "name": "Core_test_flow_M12_0",
+      "nets": [
+        "Core_test_flow_net025"
+      ],
+      "offset_x": 460.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M12",
+      "isIO": false,
+      "name": "Core_test_flow_M12_1",
+      "nets": [
+        "Core_test_flow_net025"
+      ],
+      "offset_x": 460.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M12",
+      "isIO": false,
+      "name": "Core_test_flow_M12_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 460.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M12",
+      "isIO": false,
+      "name": "Core_test_flow_M12_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 460.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M13",
+      "isIO": false,
+      "name": "Core_test_flow_M13_0",
+      "nets": [
+        "Core_test_flow_vcmfb"
+      ],
+      "offset_x": 460.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M13",
+      "isIO": false,
+      "name": "Core_test_flow_M13_1",
+      "nets": [
+        "Core_test_flow_vcmfb"
+      ],
+      "offset_x": 460.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M13",
+      "isIO": false,
+      "name": "Core_test_flow_M13_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 460.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M13",
+      "isIO": false,
+      "name": "Core_test_flow_M13_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 460.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M15",
+      "isIO": false,
+      "name": "Core_test_flow_M15_0",
+      "nets": [
+        "Core_test_flow_vcmfb"
+      ],
+      "offset_x": 1300.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M15",
+      "isIO": false,
+      "name": "Core_test_flow_M15_1",
+      "nets": [
+        "OUTP"
+      ],
+      "offset_x": 1300.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M15",
+      "isIO": false,
+      "name": "Core_test_flow_M15_2",
+      "nets": [
+        "Core_test_flow_net020"
+      ],
+      "offset_x": 1300.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M15",
+      "isIO": false,
+      "name": "Core_test_flow_M15_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 1300.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M17",
+      "isIO": false,
+      "name": "Core_test_flow_M17_0",
+      "nets": [
+        "Core_test_flow_net025"
+      ],
+      "offset_x": 1300.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M17",
+      "isIO": false,
+      "name": "Core_test_flow_M17_1",
+      "nets": [
+        "VREF"
+      ],
+      "offset_x": 1300.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M17",
+      "isIO": false,
+      "name": "Core_test_flow_M17_2",
+      "nets": [
+        "Core_test_flow_net020"
+      ],
+      "offset_x": 1300.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M17",
+      "isIO": false,
+      "name": "Core_test_flow_M17_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 1300.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M18",
+      "isIO": false,
+      "name": "Core_test_flow_M18_0",
+      "nets": [
+        "Core_test_flow_vcmfb"
+      ],
+      "offset_x": 1300.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M18",
+      "isIO": false,
+      "name": "Core_test_flow_M18_1",
+      "nets": [
+        "OUTM"
+      ],
+      "offset_x": 1300.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M18",
+      "isIO": false,
+      "name": "Core_test_flow_M18_2",
+      "nets": [
+        "Core_test_flow_net028"
+      ],
+      "offset_x": 1300.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M18",
+      "isIO": false,
+      "name": "Core_test_flow_M18_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 1300.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M19",
+      "isIO": false,
+      "name": "Core_test_flow_M19_0",
+      "nets": [
+        "Core_test_flow_net025"
+      ],
+      "offset_x": 1300.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M19",
+      "isIO": false,
+      "name": "Core_test_flow_M19_1",
+      "nets": [
+        "VREF"
+      ],
+      "offset_x": 1300.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M19",
+      "isIO": false,
+      "name": "Core_test_flow_M19_2",
+      "nets": [
+        "Core_test_flow_net028"
+      ],
+      "offset_x": 1300.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M19",
+      "isIO": false,
+      "name": "Core_test_flow_M19_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 1300.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M2",
+      "isIO": false,
+      "name": "Core_test_flow_M2_0",
+      "nets": [
+        "Core_test_flow_intm"
+      ],
+      "offset_x": 4560.0,
+      "offset_y": 2815.0
+    },
+    {
+      "cell_name": "Core_test_flow_M2",
+      "isIO": false,
+      "name": "Core_test_flow_M2_1",
+      "nets": [
+        "INP"
+      ],
+      "offset_x": 4560.0,
+      "offset_y": 2815.0
+    },
+    {
+      "cell_name": "Core_test_flow_M2",
+      "isIO": false,
+      "name": "Core_test_flow_M2_2",
+      "nets": [
+        "Core_test_flow_net7"
+      ],
+      "offset_x": 4560.0,
+      "offset_y": 2815.0
+    },
+    {
+      "cell_name": "Core_test_flow_M2",
+      "isIO": false,
+      "name": "Core_test_flow_M2_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 4560.0,
+      "offset_y": 2815.0
+    },
+    {
+      "cell_name": "Core_test_flow_M20",
+      "isIO": false,
+      "name": "Core_test_flow_M20_0",
+      "nets": [
+        "Core_test_flow_net028"
+      ],
+      "offset_x": 1240.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M20",
+      "isIO": false,
+      "name": "Core_test_flow_M20_1",
+      "nets": [
+        "VBIAS_P"
+      ],
+      "offset_x": 1240.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M20",
+      "isIO": false,
+      "name": "Core_test_flow_M20_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 1240.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M20",
+      "isIO": false,
+      "name": "Core_test_flow_M20_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 1240.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M23",
+      "isIO": false,
+      "name": "Core_test_flow_M23_0",
+      "nets": [
+        "Core_test_flow_net047"
+      ],
+      "offset_x": 1820.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M23",
+      "isIO": false,
+      "name": "Core_test_flow_M23_1",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 1820.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M23",
+      "isIO": false,
+      "name": "Core_test_flow_M23_2",
+      "nets": [
+        "Core_test_flow_intm"
+      ],
+      "offset_x": 1820.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M23",
+      "isIO": false,
+      "name": "Core_test_flow_M23_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 1820.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M25",
+      "isIO": false,
+      "name": "Core_test_flow_M25_0",
+      "nets": [
+        "Core_test_flow_net037"
+      ],
+      "offset_x": 1820.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M25",
+      "isIO": false,
+      "name": "Core_test_flow_M25_1",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 1820.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M25",
+      "isIO": false,
+      "name": "Core_test_flow_M25_2",
+      "nets": [
+        "Core_test_flow_intp"
+      ],
+      "offset_x": 1820.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M25",
+      "isIO": false,
+      "name": "Core_test_flow_M25_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 1820.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M3",
+      "isIO": false,
+      "name": "Core_test_flow_M3_0",
+      "nets": [
+        "OUTP"
+      ],
+      "offset_x": 1820.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M3",
+      "isIO": false,
+      "name": "Core_test_flow_M3_1",
+      "nets": [
+        "Core_test_flow_intm"
+      ],
+      "offset_x": 1820.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M3",
+      "isIO": false,
+      "name": "Core_test_flow_M3_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 1820.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M3",
+      "isIO": false,
+      "name": "Core_test_flow_M3_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 1820.0,
+      "offset_y": 1325.0
+    },
+    {
+      "cell_name": "Core_test_flow_M4",
+      "isIO": false,
+      "name": "Core_test_flow_M4_0",
+      "nets": [
+        "Core_test_flow_n"
+      ],
+      "offset_x": 720.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M4",
+      "isIO": false,
+      "name": "Core_test_flow_M4_1",
+      "nets": [
+        "Core_test_flow_n"
+      ],
+      "offset_x": 720.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M4",
+      "isIO": false,
+      "name": "Core_test_flow_M4_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 720.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M4",
+      "isIO": false,
+      "name": "Core_test_flow_M4_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 720.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M5",
+      "isIO": false,
+      "name": "Core_test_flow_M5_0",
+      "nets": [
+        "VBIAS_P"
+      ],
+      "offset_x": 1240.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M5",
+      "isIO": false,
+      "name": "Core_test_flow_M5_1",
+      "nets": [
+        "VBIAS_P"
+      ],
+      "offset_x": 1240.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M5",
+      "isIO": false,
+      "name": "Core_test_flow_M5_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 1240.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M5",
+      "isIO": false,
+      "name": "Core_test_flow_M5_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 1240.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M6",
+      "isIO": false,
+      "name": "Core_test_flow_M6_0",
+      "nets": [
+        "OUTP"
+      ],
+      "offset_x": 980.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M6",
+      "isIO": false,
+      "name": "Core_test_flow_M6_1",
+      "nets": [
+        "Core_test_flow_n"
+      ],
+      "offset_x": 980.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M6",
+      "isIO": false,
+      "name": "Core_test_flow_M6_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 980.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M6",
+      "isIO": false,
+      "name": "Core_test_flow_M6_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 980.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M7",
+      "isIO": false,
+      "name": "Core_test_flow_M7_0",
+      "nets": [
+        "Core_test_flow_n"
+      ],
+      "offset_x": 1240.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M7",
+      "isIO": false,
+      "name": "Core_test_flow_M7_1",
+      "nets": [
+        "VBIAS_P"
+      ],
+      "offset_x": 1240.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M7",
+      "isIO": false,
+      "name": "Core_test_flow_M7_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 1240.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M7",
+      "isIO": false,
+      "name": "Core_test_flow_M7_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 1240.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M9",
+      "isIO": false,
+      "name": "Core_test_flow_M9_0",
+      "nets": [
+        "OUTM"
+      ],
+      "offset_x": 980.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M9",
+      "isIO": false,
+      "name": "Core_test_flow_M9_1",
+      "nets": [
+        "Core_test_flow_n"
+      ],
+      "offset_x": 980.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M9",
+      "isIO": false,
+      "name": "Core_test_flow_M9_2",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 980.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_M9",
+      "isIO": false,
+      "name": "Core_test_flow_M9_3",
+      "nets": [
+        "VSS"
+      ],
+      "offset_x": 980.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_MP1a",
+      "isIO": false,
+      "name": "Core_test_flow_MP1a_0",
+      "nets": [
+        "Core_test_flow_intm"
+      ],
+      "offset_x": 2800.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_MP1a",
+      "isIO": false,
+      "name": "Core_test_flow_MP1a_1",
+      "nets": [
+        "VBIAS_P"
+      ],
+      "offset_x": 2800.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_MP1a",
+      "isIO": false,
+      "name": "Core_test_flow_MP1a_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 2800.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_MP1a",
+      "isIO": false,
+      "name": "Core_test_flow_MP1a_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 2800.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_MP1b",
+      "isIO": false,
+      "name": "Core_test_flow_MP1b_0",
+      "nets": [
+        "Core_test_flow_intp"
+      ],
+      "offset_x": 2800.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_MP1b",
+      "isIO": false,
+      "name": "Core_test_flow_MP1b_1",
+      "nets": [
+        "VBIAS_P"
+      ],
+      "offset_x": 2800.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_MP1b",
+      "isIO": false,
+      "name": "Core_test_flow_MP1b_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 2800.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_MP1b",
+      "isIO": false,
+      "name": "Core_test_flow_MP1b_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 2800.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_MP1c",
+      "isIO": false,
+      "name": "Core_test_flow_MP1c_0",
+      "nets": [
+        "Core_test_flow_net020"
+      ],
+      "offset_x": 1240.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_MP1c",
+      "isIO": false,
+      "name": "Core_test_flow_MP1c_1",
+      "nets": [
+        "VBIAS_P"
+      ],
+      "offset_x": 1240.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_MP1c",
+      "isIO": false,
+      "name": "Core_test_flow_MP1c_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 1240.0,
+      "offset_y": 1315.0
+    },
+    {
+      "cell_name": "Core_test_flow_MP1c",
+      "isIO": false,
+      "name": "Core_test_flow_MP1c_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 1240.0,
+      "offset_y": 1315.0
+    }
+  ]
+}

@@ -1,0 +1,4263 @@
+{
+  "pins": [
+    {
+      "cell": null,
+      "cell_name": "",
+      "idx": 1,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "GND",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 9790,
+          "yh": 8980
+        }
+      },
+      "cell_name": "OTA_2_C0",
+      "idx": 2,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "name": "OTA_2_C0_0",
+      "nets": [
+        "OTA_2_net0118"
+      ],
+      "offset_x": 4895,
+      "offset_y": 4630,
+      "shape": {
+        "xl": 730,
+        "yl": 390,
+        "xh": 9060,
+        "yh": 8870
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 9790,
+          "yh": 8980
+        }
+      },
+      "cell_name": "OTA_2_C0",
+      "idx": 3,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "name": "OTA_2_C0_1",
+      "nets": [
+        "OTA_2_VO1M"
+      ],
+      "offset_x": 4895,
+      "offset_y": 4350,
+      "shape": {
+        "xl": 730,
+        "yl": 110,
+        "xh": 9060,
+        "yh": 8590
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 9790,
+          "yh": 8980
+        }
+      },
+      "cell_name": "OTA_2_C0",
+      "idx": 4,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_C0_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 4895,
+      "offset_y": 4490,
+      "shape": {
+        "xl": 110,
+        "yl": 110,
+        "xh": 9680,
+        "yh": 8870
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 9790,
+          "yh": 8980
+        }
+      },
+      "cell_name": "OTA_2_C1",
+      "idx": 5,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "name": "OTA_2_C1_0",
+      "nets": [
+        "OTA_2_VO1P"
+      ],
+      "offset_x": 4895,
+      "offset_y": 4630,
+      "shape": {
+        "xl": 730,
+        "yl": 390,
+        "xh": 9060,
+        "yh": 8870
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 9790,
+          "yh": 8980
+        }
+      },
+      "cell_name": "OTA_2_C1",
+      "idx": 6,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "name": "OTA_2_C1_1",
+      "nets": [
+        "OTA_2_net0118"
+      ],
+      "offset_x": 4895,
+      "offset_y": 4350,
+      "shape": {
+        "xl": 730,
+        "yl": 110,
+        "xh": 9060,
+        "yh": 8590
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 9790,
+          "yh": 8980
+        }
+      },
+      "cell_name": "OTA_2_C1",
+      "idx": 7,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_C1_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 4895,
+      "offset_y": 4490,
+      "shape": {
+        "xl": 110,
+        "yl": 110,
+        "xh": 9680,
+        "yh": 8870
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 5870,
+          "yh": 2280
+        }
+      },
+      "cell_name": "OTA_2_C4",
+      "idx": 8,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "name": "OTA_2_C4_0",
+      "nets": [
+        "OTA_2_net0101"
+      ],
+      "offset_x": 2935,
+      "offset_y": 1280,
+      "shape": {
+        "xl": 730,
+        "yl": 390,
+        "xh": 5140,
+        "yh": 2170
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 5870,
+          "yh": 2280
+        }
+      },
+      "cell_name": "OTA_2_C4",
+      "idx": 9,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "name": "OTA_2_C4_1",
+      "nets": [
+        "VOP"
+      ],
+      "offset_x": 2935,
+      "offset_y": 1000,
+      "shape": {
+        "xl": 730,
+        "yl": 110,
+        "xh": 5140,
+        "yh": 1890
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 5870,
+          "yh": 2280
+        }
+      },
+      "cell_name": "OTA_2_C4",
+      "idx": 10,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_C4_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 2935,
+      "offset_y": 1140,
+      "shape": {
+        "xl": 110,
+        "yl": 110,
+        "xh": 5760,
+        "yh": 2170
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 5870,
+          "yh": 2280
+        }
+      },
+      "cell_name": "OTA_2_C5",
+      "idx": 11,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "name": "OTA_2_C5_0",
+      "nets": [
+        "VOM"
+      ],
+      "offset_x": 2935,
+      "offset_y": 1280,
+      "shape": {
+        "xl": 730,
+        "yl": 390,
+        "xh": 5140,
+        "yh": 2170
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 5870,
+          "yh": 2280
+        }
+      },
+      "cell_name": "OTA_2_C5",
+      "idx": 12,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "name": "OTA_2_C5_1",
+      "nets": [
+        "OTA_2_net0101"
+      ],
+      "offset_x": 2935,
+      "offset_y": 1000,
+      "shape": {
+        "xl": 730,
+        "yl": 110,
+        "xh": 5140,
+        "yh": 1890
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 5870,
+          "yh": 2280
+        }
+      },
+      "cell_name": "OTA_2_C5",
+      "idx": 13,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_C5_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 2935,
+      "offset_y": 1140,
+      "shape": {
+        "xl": 110,
+        "yl": 110,
+        "xh": 5760,
+        "yh": 2170
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 5870,
+          "yh": 3480
+        }
+      },
+      "cell_name": "OTA_2_C6",
+      "idx": 14,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "name": "OTA_2_C6_0",
+      "nets": [
+        "VOM"
+      ],
+      "offset_x": 2935,
+      "offset_y": 1880,
+      "shape": {
+        "xl": 730,
+        "yl": 390,
+        "xh": 5140,
+        "yh": 3370
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 5870,
+          "yh": 3480
+        }
+      },
+      "cell_name": "OTA_2_C6",
+      "idx": 15,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "name": "OTA_2_C6_1",
+      "nets": [
+        "OTA_2_vtail"
+      ],
+      "offset_x": 2935,
+      "offset_y": 1600,
+      "shape": {
+        "xl": 730,
+        "yl": 110,
+        "xh": 5140,
+        "yh": 3090
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 5870,
+          "yh": 3480
+        }
+      },
+      "cell_name": "OTA_2_C6",
+      "idx": 16,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_C6_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 2935,
+      "offset_y": 1740,
+      "shape": {
+        "xl": 110,
+        "yl": 110,
+        "xh": 5760,
+        "yh": 3370
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 5870,
+          "yh": 3480
+        }
+      },
+      "cell_name": "OTA_2_C7",
+      "idx": 17,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "name": "OTA_2_C7_0",
+      "nets": [
+        "OTA_2_vtail"
+      ],
+      "offset_x": 2935,
+      "offset_y": 1880,
+      "shape": {
+        "xl": 730,
+        "yl": 390,
+        "xh": 5140,
+        "yh": 3370
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 5870,
+          "yh": 3480
+        }
+      },
+      "cell_name": "OTA_2_C7",
+      "idx": 18,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "name": "OTA_2_C7_1",
+      "nets": [
+        "VOP"
+      ],
+      "offset_x": 2935,
+      "offset_y": 1600,
+      "shape": {
+        "xl": 730,
+        "yl": 110,
+        "xh": 5140,
+        "yh": 3090
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 5870,
+          "yh": 3480
+        }
+      },
+      "cell_name": "OTA_2_C7",
+      "idx": 19,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_C7_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 2935,
+      "offset_y": 1740,
+      "shape": {
+        "xl": 110,
+        "yl": 110,
+        "xh": 5760,
+        "yh": 3370
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_CIN",
+      "idx": 20,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_CIN_0",
+      "nets": [
+        "VIM"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_CIN",
+      "idx": 21,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_CIN_1",
+      "nets": [
+        "OTA_2_net096"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_CIN",
+      "idx": 22,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_CIN_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 1430,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M13",
+      "idx": 23,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M13_0",
+      "nets": [
+        "OTA_2_net077"
+      ],
+      "offset_x": 710,
+      "offset_y": 380,
+      "shape": {
+        "xl": 155,
+        "yl": -140,
+        "xh": 1265,
+        "yh": 900
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 1430,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M13",
+      "idx": 24,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M13_1",
+      "nets": [
+        "VCM"
+      ],
+      "offset_x": 580,
+      "offset_y": 1170,
+      "shape": {
+        "xl": -35,
+        "yl": 1135,
+        "xh": 1195,
+        "yh": 1205
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 1430,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M13",
+      "idx": 25,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M13_2",
+      "nets": [
+        "OTA_2_net0135"
+      ],
+      "offset_x": 450,
+      "offset_y": 520,
+      "shape": {
+        "xl": -105,
+        "yl": 0,
+        "xh": 1005,
+        "yh": 1040
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 1430,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M13",
+      "idx": 26,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_M13_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 910,
+          "yh": 1030
+        }
+      },
+      "cell_name": "OTA_2_M14",
+      "idx": 27,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M14_0",
+      "nets": [
+        "OTA_2_INCM2"
+      ],
+      "offset_x": 320,
+      "offset_y": 230,
+      "shape": {
+        "xl": 285,
+        "yl": -140,
+        "xh": 355,
+        "yh": 600
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 910,
+          "yh": 1030
+        }
+      },
+      "cell_name": "OTA_2_M14",
+      "idx": 28,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M14_1",
+      "nets": [
+        "OTA_2_INCM2"
+      ],
+      "offset_x": 320,
+      "offset_y": 870,
+      "shape": {
+        "xl": -35,
+        "yl": 835,
+        "xh": 675,
+        "yh": 905
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 910,
+          "yh": 1030
+        }
+      },
+      "cell_name": "OTA_2_M14",
+      "idx": 29,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M14_2",
+      "nets": [
+        "OTA_2_net0137"
+      ],
+      "offset_x": 320,
+      "offset_y": 370,
+      "shape": {
+        "xl": -105,
+        "yl": 0,
+        "xh": 745,
+        "yh": 740
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 910,
+          "yh": 1030
+        }
+      },
+      "cell_name": "OTA_2_M14",
+      "idx": 30,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_M14_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 3510,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M15",
+      "idx": 31,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M15_0",
+      "nets": [
+        "OTA_2_TAIL"
+      ],
+      "offset_x": 1750,
+      "offset_y": 380,
+      "shape": {
+        "xl": 155,
+        "yl": -140,
+        "xh": 3345,
+        "yh": 900
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 3510,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M15",
+      "idx": 32,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M15_1",
+      "nets": [
+        "VCM"
+      ],
+      "offset_x": 1620,
+      "offset_y": 1170,
+      "shape": {
+        "xl": -35,
+        "yl": 1135,
+        "xh": 3275,
+        "yh": 1205
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 3510,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M15",
+      "idx": 33,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M15_2",
+      "nets": [
+        "OTA_2_VN2"
+      ],
+      "offset_x": 1490,
+      "offset_y": 520,
+      "shape": {
+        "xl": -105,
+        "yl": 0,
+        "xh": 3085,
+        "yh": 1040
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 3510,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M15",
+      "idx": 34,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_M15_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 3510,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M16",
+      "idx": 35,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M16_0",
+      "nets": [
+        "OTA_2_PCAS"
+      ],
+      "offset_x": 1750,
+      "offset_y": 380,
+      "shape": {
+        "xl": 155,
+        "yl": -140,
+        "xh": 3345,
+        "yh": 900
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 3510,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M16",
+      "idx": 36,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M16_1",
+      "nets": [
+        "VCM"
+      ],
+      "offset_x": 1620,
+      "offset_y": 1170,
+      "shape": {
+        "xl": -35,
+        "yl": 1135,
+        "xh": 3275,
+        "yh": 1205
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 3510,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M16",
+      "idx": 37,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M16_2",
+      "nets": [
+        "OTA_2_VN1"
+      ],
+      "offset_x": 1490,
+      "offset_y": 520,
+      "shape": {
+        "xl": -105,
+        "yl": 0,
+        "xh": 3085,
+        "yh": 1040
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 3510,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M16",
+      "idx": 38,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_M16_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 2990,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M19",
+      "idx": 39,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M19_0",
+      "nets": [
+        "IBIAS"
+      ],
+      "offset_x": 1490,
+      "offset_y": 380,
+      "shape": {
+        "xl": 155,
+        "yl": -140,
+        "xh": 2825,
+        "yh": 900
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 2990,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M19",
+      "idx": 40,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M19_1",
+      "nets": [
+        "IBIAS"
+      ],
+      "offset_x": 1360,
+      "offset_y": 1170,
+      "shape": {
+        "xl": -35,
+        "yl": 1135,
+        "xh": 2755,
+        "yh": 1205
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 2990,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M19",
+      "idx": 41,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M19_2",
+      "nets": [
+        "OTA_2_TAIL"
+      ],
+      "offset_x": 1230,
+      "offset_y": 520,
+      "shape": {
+        "xl": -105,
+        "yl": 0,
+        "xh": 2565,
+        "yh": 1040
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 2990,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M19",
+      "idx": 42,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_M19_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 27170,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M1",
+      "idx": 43,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M1_0",
+      "nets": [
+        "OTA_2_NTAIL"
+      ],
+      "offset_x": 13450,
+      "offset_y": 380,
+      "shape": {
+        "xl": 155,
+        "yl": -140,
+        "xh": 26745,
+        "yh": 900
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 27170,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M1",
+      "idx": 44,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M1_1",
+      "nets": [
+        "OTA_2_TAIL"
+      ],
+      "offset_x": 13450,
+      "offset_y": 1170,
+      "shape": {
+        "xl": -35,
+        "yl": 1135,
+        "xh": 26935,
+        "yh": 1205
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 27170,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M1",
+      "idx": 45,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M1_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 13450,
+      "offset_y": 520,
+      "shape": {
+        "xl": -105,
+        "yl": 0,
+        "xh": 27005,
+        "yh": 1040
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 27170,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M1",
+      "idx": 46,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_M1_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 1690,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M20",
+      "idx": 47,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M20_0",
+      "nets": [
+        "OTA_2_vtail"
+      ],
+      "offset_x": 710,
+      "offset_y": 380,
+      "shape": {
+        "xl": 155,
+        "yl": -140,
+        "xh": 1265,
+        "yh": 900
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 1690,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M20",
+      "idx": 48,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M20_1",
+      "nets": [
+        "VCM"
+      ],
+      "offset_x": 710,
+      "offset_y": 1170,
+      "shape": {
+        "xl": -35,
+        "yl": 1135,
+        "xh": 1455,
+        "yh": 1205
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 1690,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M20",
+      "idx": 49,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M20_2",
+      "nets": [
+        "OTA_2_CMFBTAIL"
+      ],
+      "offset_x": 710,
+      "offset_y": 520,
+      "shape": {
+        "xl": -105,
+        "yl": 0,
+        "xh": 1525,
+        "yh": 1040
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 1690,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M20",
+      "idx": 50,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_M20_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 1690,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M21",
+      "idx": 51,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M21_0",
+      "nets": [
+        "OTA_2_net0104"
+      ],
+      "offset_x": 710,
+      "offset_y": 380,
+      "shape": {
+        "xl": 155,
+        "yl": -140,
+        "xh": 1265,
+        "yh": 900
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 1690,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M21",
+      "idx": 52,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M21_1",
+      "nets": [
+        "OTA_2_net0101"
+      ],
+      "offset_x": 710,
+      "offset_y": 1170,
+      "shape": {
+        "xl": -35,
+        "yl": 1135,
+        "xh": 1455,
+        "yh": 1205
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 1690,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M21",
+      "idx": 53,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M21_2",
+      "nets": [
+        "OTA_2_CMFBTAIL"
+      ],
+      "offset_x": 710,
+      "offset_y": 520,
+      "shape": {
+        "xl": -105,
+        "yl": 0,
+        "xh": 1525,
+        "yh": 1040
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 1690,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M21",
+      "idx": 54,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_M21_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 1750,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M24",
+      "idx": 55,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M24_0",
+      "nets": [
+        "OTA_2_net077"
+      ],
+      "offset_x": 710,
+      "offset_y": 530,
+      "shape": {
+        "xl": 155,
+        "yl": -140,
+        "xh": 1265,
+        "yh": 1200
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 1750,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M24",
+      "idx": 56,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M24_1",
+      "nets": [
+        "OTA_2_PCAS"
+      ],
+      "offset_x": 710,
+      "offset_y": 1470,
+      "shape": {
+        "xl": -35,
+        "yl": 1435,
+        "xh": 1455,
+        "yh": 1505
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 1750,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M24",
+      "idx": 57,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M24_2",
+      "nets": [
+        "OTA_2_net0136"
+      ],
+      "offset_x": 710,
+      "offset_y": 670,
+      "shape": {
+        "xl": -105,
+        "yl": 0,
+        "xh": 1525,
+        "yh": 1340
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 1750,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M24",
+      "idx": 58,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_M24_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 1230,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M25",
+      "idx": 59,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M25_0",
+      "nets": [
+        "OTA_2_INCM2"
+      ],
+      "offset_x": 450,
+      "offset_y": 530,
+      "shape": {
+        "xl": 155,
+        "yl": -140,
+        "xh": 745,
+        "yh": 1200
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 1230,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M25",
+      "idx": 60,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M25_1",
+      "nets": [
+        "OTA_2_PCAS"
+      ],
+      "offset_x": 450,
+      "offset_y": 1470,
+      "shape": {
+        "xl": -35,
+        "yl": 1435,
+        "xh": 935,
+        "yh": 1505
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 1230,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M25",
+      "idx": 61,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M25_2",
+      "nets": [
+        "OTA_2_net0138"
+      ],
+      "offset_x": 450,
+      "offset_y": 670,
+      "shape": {
+        "xl": -105,
+        "yl": 0,
+        "xh": 1005,
+        "yh": 1340
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 1230,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M25",
+      "idx": 62,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_M25_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 450,
+          "yh": 1470
+        }
+      },
+      "cell_name": "OTA_2_M28",
+      "idx": 63,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M28_0",
+      "nets": [
+        "OTA_2_PCAS"
+      ],
+      "offset_x": 190,
+      "offset_y": 600,
+      "shape": {
+        "xl": 155,
+        "yl": 0,
+        "xh": 225,
+        "yh": 1200
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 450,
+          "yh": 1470
+        }
+      },
+      "cell_name": "OTA_2_M28",
+      "idx": 64,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M28_1",
+      "nets": [
+        "OTA_2_PCAS"
+      ],
+      "offset_x": 60,
+      "offset_y": 1310,
+      "shape": {
+        "xl": -35,
+        "yl": 1275,
+        "xh": 155,
+        "yh": 1345
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 450,
+          "yh": 1470
+        }
+      },
+      "cell_name": "OTA_2_M28",
+      "idx": 65,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M28_2",
+      "nets": [
+        "OTA_2_net0134"
+      ],
+      "offset_x": -70,
+      "offset_y": 600,
+      "shape": {
+        "xl": -105,
+        "yl": 0,
+        "xh": -35,
+        "yh": 1200
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 450,
+          "yh": 1470
+        }
+      },
+      "cell_name": "OTA_2_M28",
+      "idx": 66,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_M28_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 3510,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M2",
+      "idx": 67,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M2_0",
+      "nets": [
+        "OTA_2_VN1"
+      ],
+      "offset_x": 1750,
+      "offset_y": 380,
+      "shape": {
+        "xl": 155,
+        "yl": -140,
+        "xh": 3345,
+        "yh": 900
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 3510,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M2",
+      "idx": 68,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M2_1",
+      "nets": [
+        "OTA_2_TAIL"
+      ],
+      "offset_x": 1620,
+      "offset_y": 1170,
+      "shape": {
+        "xl": -35,
+        "yl": 1135,
+        "xh": 3275,
+        "yh": 1205
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 3510,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M2",
+      "idx": 69,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M2_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 1490,
+      "offset_y": 520,
+      "shape": {
+        "xl": -105,
+        "yl": 0,
+        "xh": 3085,
+        "yh": 1040
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 3510,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M2",
+      "idx": 70,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_M2_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 1690,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M32",
+      "idx": 71,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M32_0",
+      "nets": [
+        "OTA_2_net0136"
+      ],
+      "offset_x": 710,
+      "offset_y": 530,
+      "shape": {
+        "xl": 155,
+        "yl": -140,
+        "xh": 1265,
+        "yh": 1200
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 1690,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M32",
+      "idx": 72,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M32_1",
+      "nets": [
+        "OTA_2_net077"
+      ],
+      "offset_x": 710,
+      "offset_y": 1470,
+      "shape": {
+        "xl": -35,
+        "yl": 1435,
+        "xh": 1455,
+        "yh": 1505
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 1690,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M32",
+      "idx": 73,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M32_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 710,
+      "offset_y": 670,
+      "shape": {
+        "xl": -105,
+        "yl": 0,
+        "xh": 1525,
+        "yh": 1340
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 1690,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M32",
+      "idx": 74,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_M32_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 1170,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M33",
+      "idx": 75,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M33_0",
+      "nets": [
+        "OTA_2_net0138"
+      ],
+      "offset_x": 450,
+      "offset_y": 530,
+      "shape": {
+        "xl": 155,
+        "yl": -140,
+        "xh": 745,
+        "yh": 1200
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 1170,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M33",
+      "idx": 76,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M33_1",
+      "nets": [
+        "OTA_2_net077"
+      ],
+      "offset_x": 450,
+      "offset_y": 1470,
+      "shape": {
+        "xl": -35,
+        "yl": 1435,
+        "xh": 935,
+        "yh": 1505
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 1170,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M33",
+      "idx": 77,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M33_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 450,
+      "offset_y": 670,
+      "shape": {
+        "xl": -105,
+        "yl": 0,
+        "xh": 1005,
+        "yh": 1340
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 1170,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M33",
+      "idx": 78,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_M33_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 710,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M36",
+      "idx": 79,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M36_0",
+      "nets": [
+        "OTA_2_net0134"
+      ],
+      "offset_x": 190,
+      "offset_y": 530,
+      "shape": {
+        "xl": 155,
+        "yl": -140,
+        "xh": 225,
+        "yh": 1200
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 710,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M36",
+      "idx": 80,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M36_1",
+      "nets": [
+        "OTA_2_PCAS"
+      ],
+      "offset_x": 190,
+      "offset_y": 1470,
+      "shape": {
+        "xl": -35,
+        "yl": 1435,
+        "xh": 415,
+        "yh": 1505
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 710,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M36",
+      "idx": 81,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M36_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 190,
+      "offset_y": 670,
+      "shape": {
+        "xl": -105,
+        "yl": 0,
+        "xh": 485,
+        "yh": 1340
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 710,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M36",
+      "idx": 82,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_M36_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 1430,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M3",
+      "idx": 83,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M3_0",
+      "nets": [
+        "OTA_2_net0135"
+      ],
+      "offset_x": 710,
+      "offset_y": 380,
+      "shape": {
+        "xl": 155,
+        "yl": -140,
+        "xh": 1265,
+        "yh": 900
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 1430,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M3",
+      "idx": 84,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M3_1",
+      "nets": [
+        "OTA_2_TAIL"
+      ],
+      "offset_x": 580,
+      "offset_y": 1170,
+      "shape": {
+        "xl": -35,
+        "yl": 1135,
+        "xh": 1195,
+        "yh": 1205
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 1430,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M3",
+      "idx": 85,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M3_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 450,
+      "offset_y": 520,
+      "shape": {
+        "xl": -105,
+        "yl": 0,
+        "xh": 1005,
+        "yh": 1040
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 1430,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M3",
+      "idx": 86,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_M3_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 3510,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M4",
+      "idx": 87,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M4_0",
+      "nets": [
+        "OTA_2_VN2"
+      ],
+      "offset_x": 1750,
+      "offset_y": 380,
+      "shape": {
+        "xl": 155,
+        "yl": -140,
+        "xh": 3345,
+        "yh": 900
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 3510,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M4",
+      "idx": 88,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M4_1",
+      "nets": [
+        "OTA_2_TAIL"
+      ],
+      "offset_x": 1620,
+      "offset_y": 1170,
+      "shape": {
+        "xl": -35,
+        "yl": 1135,
+        "xh": 3275,
+        "yh": 1205
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 3510,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M4",
+      "idx": 89,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M4_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 1490,
+      "offset_y": 520,
+      "shape": {
+        "xl": -105,
+        "yl": 0,
+        "xh": 3085,
+        "yh": 1040
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 3510,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M4",
+      "idx": 90,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_M4_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 10530,
+          "yh": 4030
+        }
+      },
+      "cell_name": "OTA_2_M50",
+      "idx": 91,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M50_0",
+      "nets": [
+        "OTA_2_vs"
+      ],
+      "offset_x": 5130,
+      "offset_y": 1730,
+      "shape": {
+        "xl": 155,
+        "yl": -140,
+        "xh": 10105,
+        "yh": 3600
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 10530,
+          "yh": 4030
+        }
+      },
+      "cell_name": "OTA_2_M50",
+      "idx": 92,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M50_1",
+      "nets": [
+        "OTA_2_vtail"
+      ],
+      "offset_x": 5130,
+      "offset_y": 3870,
+      "shape": {
+        "xl": -35,
+        "yl": 3835,
+        "xh": 10295,
+        "yh": 3905
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 10530,
+          "yh": 4030
+        }
+      },
+      "cell_name": "OTA_2_M50",
+      "idx": 93,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M50_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 5130,
+      "offset_y": 1870,
+      "shape": {
+        "xl": -105,
+        "yl": 0,
+        "xh": 10365,
+        "yh": 3740
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 10530,
+          "yh": 4030
+        }
+      },
+      "cell_name": "OTA_2_M50",
+      "idx": 94,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_M50_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 1750,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M68",
+      "idx": 95,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M68_0",
+      "nets": [
+        "OTA_2_vtail"
+      ],
+      "offset_x": 710,
+      "offset_y": 530,
+      "shape": {
+        "xl": 155,
+        "yl": -140,
+        "xh": 1265,
+        "yh": 1200
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 1750,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M68",
+      "idx": 96,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M68_1",
+      "nets": [
+        "OTA_2_net0104"
+      ],
+      "offset_x": 710,
+      "offset_y": 1470,
+      "shape": {
+        "xl": -35,
+        "yl": 1435,
+        "xh": 1455,
+        "yh": 1505
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 1750,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M68",
+      "idx": 97,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M68_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 710,
+      "offset_y": 670,
+      "shape": {
+        "xl": -105,
+        "yl": 0,
+        "xh": 1525,
+        "yh": 1340
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 1750,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M68",
+      "idx": 98,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_M68_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 1750,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M69",
+      "idx": 99,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M69_0",
+      "nets": [
+        "OTA_2_net0104"
+      ],
+      "offset_x": 710,
+      "offset_y": 530,
+      "shape": {
+        "xl": 155,
+        "yl": -140,
+        "xh": 1265,
+        "yh": 1200
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 1750,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M69",
+      "idx": 100,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M69_1",
+      "nets": [
+        "OTA_2_net0104"
+      ],
+      "offset_x": 710,
+      "offset_y": 1470,
+      "shape": {
+        "xl": -35,
+        "yl": 1435,
+        "xh": 1455,
+        "yh": 1505
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 1750,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M69",
+      "idx": 101,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M69_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 710,
+      "offset_y": 670,
+      "shape": {
+        "xl": -105,
+        "yl": 0,
+        "xh": 1525,
+        "yh": 1340
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 1750,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M69",
+      "idx": 102,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_M69_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 910,
+          "yh": 1030
+        }
+      },
+      "cell_name": "OTA_2_M6",
+      "idx": 103,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M6_0",
+      "nets": [
+        "OTA_2_net0137"
+      ],
+      "offset_x": 320,
+      "offset_y": 230,
+      "shape": {
+        "xl": 285,
+        "yl": -140,
+        "xh": 355,
+        "yh": 600
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 910,
+          "yh": 1030
+        }
+      },
+      "cell_name": "OTA_2_M6",
+      "idx": 104,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M6_1",
+      "nets": [
+        "OTA_2_INCM2"
+      ],
+      "offset_x": 320,
+      "offset_y": 870,
+      "shape": {
+        "xl": -35,
+        "yl": 835,
+        "xh": 675,
+        "yh": 905
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 910,
+          "yh": 1030
+        }
+      },
+      "cell_name": "OTA_2_M6",
+      "idx": 105,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M6_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 320,
+      "offset_y": 370,
+      "shape": {
+        "xl": -105,
+        "yl": 0,
+        "xh": 745,
+        "yh": 740
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 910,
+          "yh": 1030
+        }
+      },
+      "cell_name": "OTA_2_M6",
+      "idx": 106,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_M6_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 10590,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M74",
+      "idx": 107,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M74_0",
+      "nets": [
+        "OTA_2_PTAIL"
+      ],
+      "offset_x": 5130,
+      "offset_y": 530,
+      "shape": {
+        "xl": 155,
+        "yl": -140,
+        "xh": 10105,
+        "yh": 1200
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 10590,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M74",
+      "idx": 108,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M74_1",
+      "nets": [
+        "OTA_2_net0118"
+      ],
+      "offset_x": 5130,
+      "offset_y": 1470,
+      "shape": {
+        "xl": -35,
+        "yl": 1435,
+        "xh": 10295,
+        "yh": 1505
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 10590,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M74",
+      "idx": 109,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M74_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 5130,
+      "offset_y": 670,
+      "shape": {
+        "xl": -105,
+        "yl": 0,
+        "xh": 10365,
+        "yh": 1340
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -330,
+          "yl": -220,
+          "xh": 10590,
+          "yh": 1630
+        }
+      },
+      "cell_name": "OTA_2_M74",
+      "idx": 110,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_M74_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 3510,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M7",
+      "idx": 111,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M7_0",
+      "nets": [
+        "OTA_2_CMFBTAIL"
+      ],
+      "offset_x": 1750,
+      "offset_y": 380,
+      "shape": {
+        "xl": 155,
+        "yl": -140,
+        "xh": 3345,
+        "yh": 900
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 3510,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M7",
+      "idx": 112,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M7_1",
+      "nets": [
+        "OTA_2_TAIL"
+      ],
+      "offset_x": 1620,
+      "offset_y": 1170,
+      "shape": {
+        "xl": -35,
+        "yl": 1135,
+        "xh": 3275,
+        "yh": 1205
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 3510,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M7",
+      "idx": 113,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_M7_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 1490,
+      "offset_y": 520,
+      "shape": {
+        "xl": -105,
+        "yl": 0,
+        "xh": 3085,
+        "yh": 1040
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -270,
+          "yl": -200,
+          "xh": 3510,
+          "yh": 1330
+        }
+      },
+      "cell_name": "OTA_2_M7",
+      "idx": 114,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_M7_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_MN2",
+      "idx": 115,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_MN2_0",
+      "nets": [
+        "VOM"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_MN2",
+      "idx": 116,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_MN2_1",
+      "nets": [
+        "OTA_2_net092"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_MN2",
+      "idx": 117,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_MN2_2",
+      "nets": [
+        "OTA_2_vs"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_MN2",
+      "idx": 118,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_MN2_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_MNCAS",
+      "idx": 119,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_MNCAS_0",
+      "nets": [
+        "OTA_2_VO1P"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_MNCAS",
+      "idx": 120,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_MNCAS_1",
+      "nets": [
+        "IBIAS"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_MNCAS",
+      "idx": 121,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_MNCAS_2",
+      "nets": [
+        "OTA_2_net0131"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_MNCAS",
+      "idx": 122,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_MNCAS_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_MNIN",
+      "idx": 123,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_MNIN_0",
+      "nets": [
+        "OTA_2_net0131"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_MNIN",
+      "idx": 124,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_MNIN_1",
+      "nets": [
+        "VIM"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_MNIN",
+      "idx": 125,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_MNIN_2",
+      "nets": [
+        "OTA_2_NTAIL"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_MNIN",
+      "idx": 126,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_MNIN_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_MP2",
+      "idx": 127,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_MP2_0",
+      "nets": [
+        "VOM"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_MP2",
+      "idx": 128,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_MP2_1",
+      "nets": [
+        "OTA_2_VO1P"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_MP2",
+      "idx": 129,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_MP2_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_MP2",
+      "idx": 130,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_MP2_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_MPCAS",
+      "idx": 131,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_MPCAS_0",
+      "nets": [
+        "OTA_2_VO1P"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_MPCAS",
+      "idx": 132,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_MPCAS_1",
+      "nets": [
+        "OTA_2_PCAS"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_MPCAS",
+      "idx": 133,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_MPCAS_2",
+      "nets": [
+        "OTA_2_net0130"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_MPCAS",
+      "idx": 134,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_MPCAS_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_MPIN",
+      "idx": 135,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_MPIN_0",
+      "nets": [
+        "OTA_2_net0130"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_MPIN",
+      "idx": 136,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_MPIN_1",
+      "nets": [
+        "VIM"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_MPIN",
+      "idx": 137,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_MPIN_2",
+      "nets": [
+        "OTA_2_PTAIL"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_MPIN",
+      "idx": 138,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_MPIN_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -200,
+          "yl": -220,
+          "xh": 4400,
+          "yh": 3870
+        }
+      },
+      "cell_name": "OTA_2_R11",
+      "idx": 139,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_R11_0",
+      "nets": [
+        "OTA_2_net0101"
+      ],
+      "offset_x": 50,
+      "offset_y": 3450,
+      "shape": {
+        "xl": 15,
+        "yl": 3250,
+        "xh": 85,
+        "yh": 3650
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -200,
+          "yl": -220,
+          "xh": 4400,
+          "yh": 3870
+        }
+      },
+      "cell_name": "OTA_2_R11",
+      "idx": 140,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_R11_1",
+      "nets": [
+        "VOM"
+      ],
+      "offset_x": 50,
+      "offset_y": 200,
+      "shape": {
+        "xl": 15,
+        "yl": 0,
+        "xh": 85,
+        "yh": 400
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -200,
+          "yl": -220,
+          "xh": 8985,
+          "yh": 11020
+        }
+      },
+      "cell_name": "OTA_2_R12",
+      "idx": 141,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_R12_0",
+      "nets": [
+        "OTA_2_net0118"
+      ],
+      "offset_x": 8735,
+      "offset_y": 10600,
+      "shape": {
+        "xl": 8700,
+        "yl": 10400,
+        "xh": 8770,
+        "yh": 10800
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -200,
+          "yl": -220,
+          "xh": 8985,
+          "yh": 11020
+        }
+      },
+      "cell_name": "OTA_2_R12",
+      "idx": 142,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_R12_1",
+      "nets": [
+        "OTA_2_VO1P"
+      ],
+      "offset_x": 50,
+      "offset_y": 200,
+      "shape": {
+        "xl": 15,
+        "yl": 0,
+        "xh": 85,
+        "yh": 400
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -200,
+          "yl": -220,
+          "xh": 4400,
+          "yh": 3870
+        }
+      },
+      "cell_name": "OTA_2_R14",
+      "idx": 143,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_R14_0",
+      "nets": [
+        "VOP"
+      ],
+      "offset_x": 50,
+      "offset_y": 3450,
+      "shape": {
+        "xl": 15,
+        "yl": 3250,
+        "xh": 85,
+        "yh": 3650
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -200,
+          "yl": -220,
+          "xh": 4400,
+          "yh": 3870
+        }
+      },
+      "cell_name": "OTA_2_R14",
+      "idx": 144,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_R14_1",
+      "nets": [
+        "OTA_2_net0101"
+      ],
+      "offset_x": 50,
+      "offset_y": 200,
+      "shape": {
+        "xl": 15,
+        "yl": 0,
+        "xh": 85,
+        "yh": 400
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -200,
+          "yl": -220,
+          "xh": 8985,
+          "yh": 11020
+        }
+      },
+      "cell_name": "OTA_2_R5",
+      "idx": 145,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_R5_0",
+      "nets": [
+        "OTA_2_VO1M"
+      ],
+      "offset_x": 8735,
+      "offset_y": 10600,
+      "shape": {
+        "xl": 8700,
+        "yl": 10400,
+        "xh": 8770,
+        "yh": 10800
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": -200,
+          "yl": -220,
+          "xh": 8985,
+          "yh": 11020
+        }
+      },
+      "cell_name": "OTA_2_R5",
+      "idx": 146,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [
+        31
+      ],
+      "name": "OTA_2_R5_1",
+      "nets": [
+        "OTA_2_net0118"
+      ],
+      "offset_x": 50,
+      "offset_y": 200,
+      "shape": {
+        "xl": 15,
+        "yl": 0,
+        "xh": 85,
+        "yh": 400
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_RIN",
+      "idx": 147,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_RIN_0",
+      "nets": [
+        "OTA_2_net096"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": {
+        "shape": {
+          "xl": 0,
+          "yl": 0,
+          "xh": 0,
+          "yh": 0
+        }
+      },
+      "cell_name": "OTA_2_RIN",
+      "idx": 148,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "OTA_2_RIN_1",
+      "nets": [
+        "OTA_2_INCM2"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    },
+    {
+      "cell": null,
+      "cell_name": "",
+      "idx": 149,
+      "isIO": false,
+      "isNWGR": false,
+      "layers": [],
+      "name": "VDD",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 0,
+      "offset_y": 0,
+      "shape": {
+        "xl": 0,
+        "yl": 0,
+        "xh": 0,
+        "yh": 0
+      }
+    }
+  ]
+}

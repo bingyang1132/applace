@@ -1,0 +1,684 @@
+{
+  "pins": [
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M0",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M0_0",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 775.0,
+      "offset_y": 787.5
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M0",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M0_1",
+      "nets": [
+        "INTERN"
+      ],
+      "offset_x": 775.0,
+      "offset_y": 787.5
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M0",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M0_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 775.0,
+      "offset_y": 787.5
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M0",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M0_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 775.0,
+      "offset_y": 787.5
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M10",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M10_0",
+      "nets": [
+        "CROSSN"
+      ],
+      "offset_x": 440.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M10",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M10_1",
+      "nets": [
+        "CLK"
+      ],
+      "offset_x": 440.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M10",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M10_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 440.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M10",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M10_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 440.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M12",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M12_0",
+      "nets": [
+        "CROSSP"
+      ],
+      "offset_x": 440.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M12",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M12_1",
+      "nets": [
+        "CLK"
+      ],
+      "offset_x": 440.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M12",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M12_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 440.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M12",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M12_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 440.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M13",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M13_0",
+      "nets": [
+        "CROSSP"
+      ],
+      "offset_x": 620.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M13",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M13_1",
+      "nets": [
+        "CROSSN"
+      ],
+      "offset_x": 620.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M13",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M13_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 620.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M13",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M13_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 620.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M14",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M14_0",
+      "nets": [
+        "CROSSN"
+      ],
+      "offset_x": 620.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M14",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M14_1",
+      "nets": [
+        "CROSSP"
+      ],
+      "offset_x": 620.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M14",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M14_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 620.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M14",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M14_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 620.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M15",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M15_0",
+      "nets": [
+        "OUTP"
+      ],
+      "offset_x": 530.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M15",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M15_1",
+      "nets": [
+        "CROSSN"
+      ],
+      "offset_x": 530.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M15",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M15_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 530.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M15",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M15_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 530.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M16",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M16_0",
+      "nets": [
+        "OUTM"
+      ],
+      "offset_x": 490.0,
+      "offset_y": 555.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M16",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M16_1",
+      "nets": [
+        "CROSSP"
+      ],
+      "offset_x": 490.0,
+      "offset_y": 555.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M16",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M16_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 490.0,
+      "offset_y": 555.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M16",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M16_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 490.0,
+      "offset_y": 555.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M17",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M17_0",
+      "nets": [
+        "OUTP"
+      ],
+      "offset_x": 490.0,
+      "offset_y": 555.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M17",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M17_1",
+      "nets": [
+        "CROSSN"
+      ],
+      "offset_x": 490.0,
+      "offset_y": 555.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M17",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M17_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 490.0,
+      "offset_y": 555.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M17",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M17_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 490.0,
+      "offset_y": 555.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M18",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M18_0",
+      "nets": [
+        "INTERN"
+      ],
+      "offset_x": 440.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M18",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M18_1",
+      "nets": [
+        "CLK"
+      ],
+      "offset_x": 440.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M18",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M18_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 440.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M18",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M18_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 440.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M19",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M19_0",
+      "nets": [
+        "INTERP"
+      ],
+      "offset_x": 440.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M19",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M19_1",
+      "nets": [
+        "CLK"
+      ],
+      "offset_x": 440.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M19",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M19_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 440.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M19",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M19_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 440.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M22",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M22_0",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 775.0,
+      "offset_y": 787.5
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M22",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M22_1",
+      "nets": [
+        "INTERP"
+      ],
+      "offset_x": 775.0,
+      "offset_y": 787.5
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M22",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M22_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 775.0,
+      "offset_y": 787.5
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M22",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M22_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 775.0,
+      "offset_y": 787.5
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M3",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M3_0",
+      "nets": [
+        "CROSSP"
+      ],
+      "offset_x": 580.0,
+      "offset_y": 555.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M3",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M3_1",
+      "nets": [
+        "CROSSN"
+      ],
+      "offset_x": 580.0,
+      "offset_y": 555.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M3",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M3_2",
+      "nets": [
+        "INTERP"
+      ],
+      "offset_x": 580.0,
+      "offset_y": 555.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M3",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M3_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 580.0,
+      "offset_y": 555.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M4",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M4_0",
+      "nets": [
+        "CROSSN"
+      ],
+      "offset_x": 580.0,
+      "offset_y": 555.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M4",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M4_1",
+      "nets": [
+        "CROSSP"
+      ],
+      "offset_x": 580.0,
+      "offset_y": 555.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M4",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M4_2",
+      "nets": [
+        "INTERN"
+      ],
+      "offset_x": 580.0,
+      "offset_y": 555.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M4",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M4_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 580.0,
+      "offset_y": 555.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M5",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M5_0",
+      "nets": [
+        "INTERN"
+      ],
+      "offset_x": 1120.0,
+      "offset_y": 795.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M5",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M5_1",
+      "nets": [
+        "VI+"
+      ],
+      "offset_x": 1120.0,
+      "offset_y": 795.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M5",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M5_2",
+      "nets": [
+        "COMPARATOR_PRE_AMP_2018_Modify_test_flow_net050"
+      ],
+      "offset_x": 1120.0,
+      "offset_y": 795.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M5",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M5_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 1120.0,
+      "offset_y": 795.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M6",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M6_0",
+      "nets": [
+        "INTERP"
+      ],
+      "offset_x": 1120.0,
+      "offset_y": 795.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M6",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M6_1",
+      "nets": [
+        "VI-"
+      ],
+      "offset_x": 1120.0,
+      "offset_y": 795.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M6",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M6_2",
+      "nets": [
+        "COMPARATOR_PRE_AMP_2018_Modify_test_flow_net050"
+      ],
+      "offset_x": 1120.0,
+      "offset_y": 795.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M6",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M6_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 1120.0,
+      "offset_y": 795.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M7",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M7_0",
+      "nets": [
+        "COMPARATOR_PRE_AMP_2018_Modify_test_flow_net050"
+      ],
+      "offset_x": 1840.0,
+      "offset_y": 555.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M7",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M7_1",
+      "nets": [
+        "CLK"
+      ],
+      "offset_x": 1840.0,
+      "offset_y": 555.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M7",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M7_2",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 1840.0,
+      "offset_y": 555.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M7",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M7_3",
+      "nets": [
+        "GND"
+      ],
+      "offset_x": 1840.0,
+      "offset_y": 555.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M8",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M8_0",
+      "nets": [
+        "OUTM"
+      ],
+      "offset_x": 530.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M8",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M8_1",
+      "nets": [
+        "CROSSP"
+      ],
+      "offset_x": 530.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M8",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M8_2",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 530.0,
+      "offset_y": 805.0
+    },
+    {
+      "cell_name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M8",
+      "isIO": false,
+      "name": "COMPARATOR_PRE_AMP_2018_Modify_test_flow_M8_3",
+      "nets": [
+        "VDD"
+      ],
+      "offset_x": 530.0,
+      "offset_y": 805.0
+    }
+  ]
+}
