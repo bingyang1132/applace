@@ -210,7 +210,8 @@ bash run/10-abstract-placement.sh ota2 /tmp/out --set symWeight=2.0
 
 ## 致谢
 
-感谢 Yibo Lin 和 Haoyi Zhang(北京大学)的帮助。
+本工作部分得到 NSF(项目号 CCF-2112665)、Samsung、UT Austin iMAGiNE consortium
+以及 NVIDIA 设备捐赠的支持。另外感谢北京大学的林亦波和张昊懿的帮助。
 
 ## 许可
 

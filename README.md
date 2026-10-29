@@ -235,7 +235,9 @@ If APPlace is useful in your research, please cite:
 
 ## Acknowledgments
 
-We thank Yibo Lin and Haoyi Zhang (Peking University) for their help.
+This work is supported in part by NSF under grant CCF-2112665, Samsung, the UT
+Austin iMAGiNE consortium, and an equipment donation from NVIDIA. We also thank
+Yibo Lin and Haoyi Zhang (Peking University) for their help.
 
 ## License
 
