@@ -2263,7 +2263,14 @@ mod tests {
             .duration_since(UNIX_EPOCH)
             .unwrap()
             .as_nanos();
-        let path = dir.join(format!("placement_config_v2_test_{}.json", nanos));
+        static SEQ: std::sync::atomic::AtomicUsize = std::sync::atomic::AtomicUsize::new(0);
+        let seq = SEQ.fetch_add(1, std::sync::atomic::Ordering::Relaxed);
+        let path = dir.join(format!(
+            "placement_config_v2_test_{}_{}_{}.json",
+            std::process::id(),
+            nanos,
+            seq
+        ));
         std::fs::write(&path, serde_json::to_string_pretty(v).unwrap()).unwrap();
         path
     }

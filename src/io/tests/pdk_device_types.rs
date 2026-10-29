@@ -40,7 +40,12 @@ fn db_with_models(models: &[&str]) -> CircuitDb {
         .duration_since(std::time::UNIX_EPOCH)
         .unwrap()
         .as_nanos();
-    let path = std::env::temp_dir().join(format!("applace_device_types_{stamp}.sp"));
+    static SEQ: std::sync::atomic::AtomicUsize = std::sync::atomic::AtomicUsize::new(0);
+    let seq = SEQ.fetch_add(1, std::sync::atomic::Ordering::Relaxed);
+    let path = std::env::temp_dir().join(format!(
+        "applace_device_types_{}_{stamp}_{seq}.sp",
+        std::process::id()
+    ));
     std::fs::write(&path, body).expect("write temp netlist");
     let mut db = CircuitDb::new();
     parse_hierarchical_netlist(&path, &mut db).expect("parse netlist");
