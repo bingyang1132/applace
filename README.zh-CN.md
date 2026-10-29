@@ -2,12 +2,6 @@
 
 # APPlace
 
-我们希望 APPlace 能为开源社区以及模拟电路设计自动化做出一点贡献。这个工具没有在
-我们的实验环境和实验所用的 PDK 之外做过大规模测试,遇到问题是正常的。欢迎在 issue
-里提出,我们会在力所能及的范围内修复,也欢迎提交 PR。提 issue 或 PR 时,请附上能复现
-问题的具体输入,以便把它加入长期回归测试集。如果设计不便公开,提供一个几何形态的
-case(见 `docs/INPUT_FORMAT.md`)就够了,它不含任何工艺数据。
-
 **APPlace** 是一个面向模拟电路的 routing-aware analytical placement
 framework。与仅优化器件坐标并将 access-point (AP) 选择留给后续布线的
 传统 analytical placement 不同，APPlace 在 global placement 中联合优化
@@ -36,6 +30,8 @@ ablation 表明，AP co-optimization 与 structure-preserving legalization
 本仓库提供 APPlace 的 Rust 实现、无需 PDK 即可运行的 abstract benchmarks，
 以及用于接入实际 PCell / PDK 数据的输入接口。本仓库只负责 placement；
 routing、parasitic extraction 和 post-layout simulation 不包含在其中。
+
+> 我们希望 APPlace 能为开源社区以及模拟电路设计自动化做出一点贡献。这个工具没有在我们的实验环境和实验所用的 PDK 之外做过大规模测试,遇到问题是正常的。欢迎在 issue 里提出,我们会在力所能及的范围内修复,也欢迎提交 PR。提 issue 或 PR 时,请附上能复现问题的具体输入,以便把它加入长期回归测试集。如果设计不便公开,提供一个几何形态的case(见 `docs/INPUT_FORMAT.md`)就够了,它不含任何工艺数据。
 
 ## 包含什么
 
