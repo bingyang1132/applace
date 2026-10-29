@@ -2,15 +2,6 @@
 
 # APPlace
 
-We hope APPlace can contribute to the open-source community and to analog design
-automation. It has not been tested at scale outside our experimental environment
-and the PDKs we used, so running into problems is to be expected. Please report
-them in the issue tracker; we will fix what we can, and pull requests are welcome.
-With a report or a pull request, please attach the concrete input that shows the
-problem, so that it can join the long-term regression set. If your design cannot
-be shared, a case in the geometric form (`docs/INPUT_FORMAT.md`), which carries no
-process data, is enough.
-
 **APPlace** is a routing-aware analytical placement framework for analog
 circuits. Unlike conventional analytical placement, which optimizes device
 coordinates only and leaves access-point (AP) selection to the router, APPlace
@@ -44,6 +35,8 @@ This repository provides the Rust implementation of APPlace, abstract benchmarks
 that run without any PDK, and the input interfaces for connecting real PCell /
 PDK data. The repository covers placement only; routing, parasitic extraction and
 post-layout simulation are out of scope.
+
+> We hope APPlace can contribute to the open-source community and to analog design automation. It has not been tested at scale outside our experimental environment and the PDKs we used, so running into problems is to be expected. Please report them in the issue tracker; we will fix what we can, and pull requests are welcome. With a report or a pull request, please attach the concrete input that shows the problem, so that it can join the long-term regression set. If your design cannot be shared, a case in the geometric form (`docs/INPUT_FORMAT.md`), which carries no process data, is enough.
 
 ## What is in the box
 
