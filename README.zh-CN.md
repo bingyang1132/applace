@@ -26,7 +26,7 @@ ablation 表明，AP co-optimization 与 structure-preserving legalization
 
 > **Paper:** *APPlace: Co-Optimizing Device Locations and Access Points
 > for Routing-Aware Analog Placement*, accepted to ASP-DAC 2027,
-> [doi:10.1145/3840404.3848293](https://doi.org/10.1145/3840404.3848293).
+> [doi:10.1145/3840404.3848293](https://doi.org/10.1145/3840404.3848293) [http://arxiv.org/abs/2610.39515](http://arxiv.org/abs/2610.39515).
 
 本仓库提供 APPlace 的 Rust 实现、无需 PDK 即可运行的 abstract benchmarks，
 以及用于接入实际 PCell / PDK 数据的输入接口。本仓库只负责 placement；
