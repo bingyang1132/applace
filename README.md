@@ -30,7 +30,8 @@ quality.
 
 > **Paper:** *APPlace: Co-Optimizing Device Locations and Access Points for
 > Routing-Aware Analog Placement*, accepted to ASP-DAC 2027,
-> [doi:10.1145/3840404.3848293](https://doi.org/10.1145/3840404.3848293).
+> [doi:10.1145/3840404.3848293](https://doi.org/10.1145/3840404.3848293) [http://arxiv.org/abs/2610.39515](http://arxiv.org/abs/2610.39515)
+.
 
 This repository provides the Rust implementation of APPlace, abstract benchmarks
 that run without any PDK, and the input interfaces for connecting real PCell /
